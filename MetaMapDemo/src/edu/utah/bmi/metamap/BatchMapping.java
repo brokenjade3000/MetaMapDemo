@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  * 
- * This is a demo to use metamap map a list of concepts (in a csv format)
+ * This is a demo of using MetaMap to map a list of concepts (in a csv format)
  * 
  * @author Jianlin Shi
  *
