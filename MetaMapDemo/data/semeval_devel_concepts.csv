@@ -1,0 +1,5358 @@
+Abdominal pain,0000737
+abcess,0000833
+abdominal pain,0000737
+redness,UI-less
+night sweats,0028081
+fever,UI-less
+anechoic collection,UI-less
+cystic,0010709
+cystic collectionan,UI-less
+abdominal abcess,0243001
+Crohns,0010346
+abdominal stoma,0459683
+ventral Hernia,0019326
+peripheral neuropathy,0031117
+anxiety,0003469
+depression,0011581
+NAD,UI-less
+lesions,UI-less
+M,UI-less
+R,UI-less
+G,UI-less
+epigastric mass,UI-less
+erythema,0041834
+tender to palpation,UI-less
+infection,0021311
+abdominla scars,UI-less
+jaundice,0022346
+depressed,1579931
+ABSCESS,0000833
+fluid collects,UI-less
+crohn's,0010346
+fluid collections,UI-less
+fluid collects,UI-less
+ABDOMINAL WALL COLLECTION,0401020
+Crohn's disease,0010346
+Collection,UI-less
+anechoic collection,UI-less
+cystic,0010709
+cystic collection,UI-less
+complications,0009566
+pain,0030193
+hypotension,UI-less
+abdomen tender,0232498
+abdomen warm,UI-less
+red,UI-less
+pain,0030193
+wound,0043250
+complication,0009566
+pain,0030193
+Abdominal wall abscess,0263105
+Crohn's disease,0010346
+drainage site,1272590
+redness,UI-less
+pain,0030193
+swelling,UI-less
+discharge,UI-less
+pain,0030193
+pain,0030193
+pain,0030193
+Fever,UI-less
+Vomiting,0042963
+Inability to drink,UI-less
+Inability to eat,UI-less
+Inability to pass stool,UI-less
+Inability to pass gas,0426631
+Redness wounds,0406833
+swelling wounds,UI-less
+drainage wounds,0332799
+symptoms,1457887
+Bicuspid aortic valve,0149630
+aortic stenosis,0003507
+Bicuspid aortic valve,0149630
+aortic stenosis,0003507
+bicuspid aortic valve,0149630
+aortic valve stenosis,0003507
+presyncopal episode,0700200
+increased peak aortic gradient,UI-less
+presyncopal episode,0700200
+fatigue,0015672
+dyspnea on exertion,0231807
+shortness of breath,0013404
+chest pain,0008031
+paroxysmal nocturnal dyspnea,1956415
+orthopnea,0085619
+Bicuspid aortic valve,0149630
+Asthma,0004096
+Factor XI deficiency,0015523
+Hypertension,0020538
+Hypercholesterolemia,0020443
+Polymyalgia rheumatica,0032533
+Osteoarthritis,0029408
+incisional hernia,0267716
+Left bundle-branch block,0023211
+swelling,UI-less
+hives,0042109
+acute distress,UI-less
+anicteric,UI-less
+lymphadenopathy,UI-less
+masses,UI-less
+systolic ejection murmur,UI-less
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+masses,UI-less
+organomegaly,UI-less
+Extremities warm,UI-less
+cyanotic,0010520
+edematous,0013604
+acute process,UI-less
+aortic stenosis,0003507
+factor XI deficiency,0015523
+postoperative bleeding,0032788
+complication,0009566
+bleeding,0019080
+ventricular tachycardia,0042514
+asymptomatic,UI-less
+ventricular tachycardia,0042514
+ventricular tachycardia,0042514
+asymptomatic,UI-less
+supraventricular tachycardia,0039240
+asymptomatic,UI-less
+pain,0030193
+pain,0030193
+presyncopal events,0700200
+acute distress,UI-less
+sternal click,UI-less
+drainage from incision site,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+pedal edema,0574002
+sucking chest wall wound,1264413
+peroneal injury,0272439
+injury,0175677
+hypertension,0020538
+diabetes,0011849
+asthma,0004096
+bleeding disorder,1458140
+shortness of breath,0013404
+palpitations,UI-less
+Nontender,UI-less
+nondistended,UI-less
+blood loss,0019080
+respiratory arrest,0162297
+unresponsive,UI-less
+not breathing,0003578
+patent airway,UI-less
+pain,0030193
+cardiac event,UI-less
+events,UI-less
+passing flatus,0016204
+afebrile,UI-less
+afebrile,UI-less
+shortness of breath,0013404
+ileus,1258215
+dyspnea,0013404
+respiratory improvement,UI-less
+SOB,0013404
+SOB,0013404
+not ambulated,UI-less
+weakness,1883552
+GB,0018378
+difficulty eating,UI-less
+reflux,0232483
+coughing,0010200
+choking,UI-less
+difficulty swallowing,0011168
+SOB,0013404
+infiltrates,0332448
+cough productive,0239134
+reflux,0232483
+dyspnea,0013404
+CHF,0018802
+WBC elevated,UI-less
+DVT,0149871
+fist degree AV block,0085614
+nonspecific ST changes,UI-less
+abdominal pain,0000737
+hydronephrosis,0020295
+renal cysts,0268800
+obstruction,0028778
+lipase elevated,UI-less
+Cystinuria,0010691
+HTN,0020538
+afib,0004238
+CHF,0018802
+Primary pulmonary HTN,0152171
+Chronic renal insufficiency,0022661
+Gout,0018099
+Multiple renal cysts,0431718
+pancreatic mass,UI-less
+Chronic gastritis,0085695
+GERD,0017168
+Anemia,0002871
+elevated PSA,UI-less
+Cutis laxa,0010495
+Restless legs syndrome,0035258
+DM,0011849
+stroke,0038454
+DM,0011849
+cystinuria,0010691
+hoarse voice,0019825
+erythema,0041834
+LAD,UI-less
+thyroid enlarged,0018021
+murmurs,UI-less
+crackles,0034642
+costovertebral tenderness,0235634
+Abd tenderness,0232498
+Abd distended,UI-less
+guarding,UI-less
+can't walk,UI-less
+hyperpigmented macules,UI-less
+respiratory status,UI-less
+aspiration,UI-less
+dysphagia,0011168
+aspiration PNA,0032290
+respiratory status,UI-less
+difficulty swallowing,0011168
+aspiration,UI-less
+symptoms,1457887
+pain,0030193
+pain,0030193
+pain,0030193
+drowsy,UI-less
+chronic renal failure,0022661
+cystinuria,0010691
+cystinuria,0010691
+flash pulmonary edema,0155919
+Anemia,0002871
+iron deficiency anemia,0162316
+intolerance of iron,UI-less
+constipation,0009806
+nodularity,0028259
+anemia,0002871
+abdominal pain,0000737
+kidney stones,0022650
+cystinuria,0010691
+HTN,0020538
+diastolic dysfunction,0520863
+flash pulmonary edema,0155919
+systolic hypertension,0221155
+dysphagia,0011168
+restless legs,0035258
+Aspiration Pneumonia,0032290
+Cystinuria,0010691
+HTN,0020538
+afib,0004238
+CHF,0018802
+Primary pulmonary HTN,0152171
+primary pulmonary hypertension,0152171
+dizziness,0012833
+Chronic renal insufficiency,0022661
+Gout,0018099
+Multiple renal cysts,0431718
+pancreatic mass,UI-less
+Chronic gastritis,0085695
+GERD,0017168
+Anemia,0002871
+elevated PSA,UI-less
+Cutis laxa,0010495
+Restless legs syndrome,0035258
+pneumonia,0032285
+hypertension,0020538
+dizziness,0012833
+fatigue,0015672
+heart block,0018794
+fatigued,0015672
+lightheaded,0220870
+syncope,0039070
+chest pain,0008031
+heart block,0078794
+urinary tract infection,0042029
+symptoms,1457887
+burning,0085624
+frequency,UI-less
+urgency,UI-less
+shortness of breath,0013404
+bright red blood,UI-less
+melena,0025222
+paroxysmal nocturnal dyspnea,1956415
+orthopnea,0085619
+shortness of breath,0013404
+dyspnea on exertion,0231807
+lower extremity edema,0239340
+palpitations,UI-less
+Hypertension,0020538
+Colovesicular fistula,0268842
+diverticulitis,0012813
+rash,0015230
+rash,0015230
+acute distress,UI-less
+bradycardiac,0428977
+systolic murmur,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+sinus rhythm,UI-less
+right bundle branch block,0085615
+heart block,0018794
+conduction abnormality,0232219
+heart block,0018794
+Urinary tract infection,0042029
+urinary tract infection,0042029
+Atrioventricular conduction block,UI-less
+Hypertension,0020538
+Hypothyroidism,0020676
+Dyspnea on exertion,0231807
+heart murmurs,UI-less
+dyspnea,0013404
+mitral regurgitation,0026266
+lesion,UI-less
+Hypertension,0020538
+Addison's disease,0001403
+Hypothyroidism,0020676
+Melanoma,0025202
+BPH,0005001
+acute distress,UI-less
+murmur,UI-less
+JVD,UI-less
+systolic murmur,UI-less
+Abdomen nondistended,UI-less
+Abdomen Nontender,UI-less
+Abdomen Soft,UI-less
+Ext warm,UI-less
+pneumothorax,0032326
+CHF,0018802
+bilateral pleural effusions,0747635
+addisons disease,0001403
+atrial fibrillation,0004238
+first degree AV-block,0085614
+AV block,0004245
+afib,0004238
+elevated HR,UI-less
+elevated BP,UI-less
+AV block,0004245
+edamatous,0013604
+Mitral regurgitation,0026266
+Hypertension,0020538
+Addison's disease,0001403
+Hypothyroidism,0020676
+bright red blood per rectum,UI-less
+bleeding,0019080
+volume of stools,UI-less
+passed clots,UI-less
+passed bowel movement,UI-less
+bleeding,0019080
+bleeding,0019080
+acute bleeding,0333276
+pooling blood,UI-less
+bleeding vessels,0264940
+bleeding vessel,0264940
+bleeding vessel,0264940
+bleeding vessel,0264940
+bleeding blood vessel,0264940
+asplenic,0272405
+bleeding diverticula,UI-less
+complication,0009566
+diverticulosis,1510475
+lower GI bleeding,0024050
+hypertension,0020538
+glaucoma,0017601
+rheumatic heart disease,0035439
+hemorrhoids,0019112
+glaucoma,0017601
+abdomen distended,UI-less
+abdominal tenderness,0232498
+abdominal distention,UI-less
+pneumonia,0032285
+pulmonary edema,0034063
+Lower GI bleed,0024050
+bleeding diverticula,0581360
+chest pain with exertion,0232288
+aortic stenosis,0003507
+murmur,UI-less
+bicuspid aortic valve,0149630
+chest pain with exertion,0232288
+symptoms,1457887
+tricuspid regurgitation,0040961
+mitral regurgitation,0026266
+left ventricular hypertrophy,0149721
+enlarged,0020564
+aortic insufficiency,0003504
+aortic stenosis,0003507
+aortic stenosis,0003507
+bicuspid aortic valve,0149630
+hypothyroidism,0020676
+CAD,1956346
+nocturia,0028734
+apparent distress,UI-less
+lymphadenopathy,UI-less
+thyromegaly,0018021
+murmur radiation,UI-less
+holosystolic murmur,0232258
+abdomen nontender,UI-less
+abdomen soft,UI-less
+masses,UI-less
+hepatosplenomegaly,0019214
+cyanosis,0010520
+clubbing,0149651
+edema,0013604
+varicosities,0042345
+blockages,0264995
+tortuous,UI-less
+dilated ascending aorta,0345049
+sinus bradycardia,0085610
+left ventricular hypertrophy,0149721
+left anterior hemi-block,0155702
+aortic aneurysm,0003486
+aortic root dilatation,0238669
+low blood sugar,0020615
+murmurs,UI-less
+hypoactive bowel sounds,0232695
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+extremities warm,UI-less
+events,UI-less
+pneumothorax,0032326
+events,UI-less
+changes with subcutaneous air,UI-less
+subcutaneous air,UI-less
+pneumothorax,0032326
+subcutaneous air,UI-less
+bicuspid aortic valve,0149630
+Hypothyroidism,0020676
+pain,0030193
+increase creatinine,UI-less
+CAD,1956346
+CVA,0038454
+CVA,0038454
+PAfib,0235480
+CVA,0038454
+lacunar infarct,0333559
+bradycardia,0428977
+HTN,0020538
+T2DM,0011860
+bradycardia,0428977
+dizzy,0012833
+confused,0009676
+diaphoretic,0700590
+presyncope,0700200
+syncopized,0039070
+junctional escape rhythm,UI-less
+BP,UI-less
+NSR,UI-less
+LE cellulitis,0343024
+cellulitis,0007642
+Lyme disease,0024198
+dementia,0497327
+AD,0002395
+Lyme,0024198
+confused,0009676
+infiltrate,0332448
+pleural effusion,0032227
+platelet drop,UI-less
+dementia,0497327
+syncope,0039070
+chest pain,0008031
+forgetful,0542476
+confused,0009676
+mental condition,UI-less
+CP,0008031
+syncope,0039070
+presyncope,0700200
+DOE,0231807
+PND,1956415
+orthopnea,0085619
+edema,0013604
+palpitations,UI-less
+HTN,0020538
+Diabetes mellitus type 2,0011860
+NAD,UI-less
+MM dry,0854113
+JVD,UI-less
+JVP,UI-less
+carotid bruits,UI-less
+SEM,UI-less
+wheezes,0043144
+crackles,0034642
+Abd ND,UI-less
+Abd NT,UI-less
+Abd Soft,UI-less
+c,0149651
+c,0010520
+e,0013604
+scaling plaque,UI-less
+warmth,0235218
+induration,0332534
+tracking,UI-less
+Bilateral effusions,UI-less
+infiltrates,0332448
+scoliosis,0036439
+atrial septal defect,0018817
+left ventricular hypertrophy,0149721
+thickened,UI-less
+aortic stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+tricuspid leaflets thickened,2959459
+systolic hypertension,0221155
+pericardial effusion,0031039
+Atrophy,0333641
+lacunar infarcts,0585229
+HTN,0020538
+T2DM,0011860
+bradycardia,0428977
+Bradycardia,0428977
+bradycardic,0428977
+BB toxicity,0573209
+junctional escape rhythm,UI-less
+NSR,UI-less
+abnormal changes,UI-less
+BB toxicity,0573209
+aortic sclerosis,1331537
+MR,0026266
+Elevated cardiac enzymes,UI-less
+elevated troponins,UI-less
+chest pain,0008031
+decreasing Trop,UI-less
+elevation cardiac enzymes,UI-less
+hypotension,UI-less
+HTN,0020538
+Thrombocytopenia,UI-less
+thrombocytopenic,UI-less
+heparin induced thrombocytopenia,0272285
+Confusion,0009676
+Dementia,0497327
+confused,0009676
+hallucinating,0018524
+agitated,0085631
+relief,UI-less
+without improvement,UI-less
+dementia,0497327
+deterioration of mental status,UI-less
+Dementia,0497327
+acute change,UI-less
+old infarcts,0333551
+agitation,0085631
+Constipation,0009806
+Constipation,0009806
+Bradycardia,0428977
+Beta-blocker toxicity,0573209
+Dyspnea on exertion,0231807
+valvular disease,0018824
+Aortic stenosis,0003507
+congestive heart failure,0018802
+Aortic Stenosis,0003507
+Congestive Heart Failure,0018802
+Atrial fibrillation,0004238
+Thyroid cancer,0007115
+Hypothyroidism,0020676
+pulmonary nodules,0748164
+Diabetes Mellitus,0011849
+Hyperlipidemia,0020473
+Adrenal insufficiency,0001623
+Bladder cancer,0005684
+NAD,UI-less
+Skin lesions,0037284
+Skin dry,0151908
+Skin Warm,0235218
+anicteric,UI-less
+JVD,UI-less
+scar,2004491
+w,0043144
+r,0034642
+r,0035508
+nevi,0027960
+birthmark,0265974
+Irreg,UI-less
+Irreg,UI-less
+SEM,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd Soft,UI-less
+Ext Warm,UI-less
+edema,0013604
+varicosities,0042345
+left atrium dilated,0344720
+left ventricular hypertrophy,0149721
+atheroma,0264956
+atheroma,0264956
+dilated,0012359
+atheroma,0264956
+thickened,UI-less
+deformed,0302142
+aortic valve stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+thickening,UI-less
+mitral regurgitation,0026266
+mitral regurgitation,0026266
+LV systolic function depressed,UI-less
+hypokinesia,0086439
+MR,0026266
+aortic insufficiency,0003504
+Bilateral pleural effusions,0747635
+discoid atelectasis,0264494
+consolidations,0521530
+pneumothorax,0032326
+coronary artery disease,1956346
+mitral valve disease,0026265
+chronic atrial fibrillation,0694539
+platelet count decreased,UI-less
+HIT,0272285
+pain,0030193
+Aortic Stenosis,0003507
+Mitral Regurgitation,0026266
+Coronary Artery Disease,1956346
+Congestive Heart Failure,0018802
+Atrial fibrillation,0004238
+Thyroid cancer,0007115
+Hypothyroidism,0020676
+pulmonary nodules,0748164
+Diabetes  Mellitus,0011849
+Hyperlipidemia,0020473
+Adrenal insufficiency,0001623
+Bladder cancer,0005684
+fever,UI-less
+redness,UI-less
+drainage from incision,UI-less
+weight gain,UI-less
+shortness of breath,0013404
+CHF,0018802
+Aortic stenosis,0003507
+bullae,0005758
+Anxiety,0003469
+Diverticulosis,1510475
+carotid disease,0007273
+Peripheral vascular disease,0085096
+Obesity,0028754
+cataract,0086543
+CO2 retention,UI-less
+elevated CO2,UI-less
+prolonged PR interval,UI-less
+fib,0232197
+SR,UI-less
+prolonged PR interval,UI-less
+heart block,0018794
+atrial fibrillation,0004238
+AV nodal disease,UI-less
+LBBB,0023211
+CHB,0151517
+sinus rhythm,UI-less
+slower heart rates,0428977
+rhythm,UI-less
+blocked premature atrial contractions,0428990
+bullae,0005758
+bilateral pleural effusions,0747635
+bullae,0005758
+bullous disease,0263220
+atrial fibrillation,0004238
+pain,0030193
+constipation,0009806
+Critical aortic stenosis,1960800
+Congestive heart failure,0018802
+Peripheral vascular disease,0085096
+Obesity,0028754
+atrial fibrillation,0004238
+bullous disease,0263220
+first degree AV block,0085614
+anxiety,0003469
+wounds,0043250
+bullous disease,0263220
+sepsis,0243026
+aspiration,UI-less
+altered mental status,0278061
+CVA,0038454
+PNA,0032285
+hip fracture,0019557
+osteomyelitis,0029443
+delerium,0011206
+aphasia,0003537
+vomiting,0042963
+shivering,UI-less
+depressed MS,0278061
+hypoxic,0242184
+HTN,0020538
+tachypneic,0231835
+labored breathing,0553668
+facial movement,UI-less
+MCA infarct,0740392
+hemorrhagic conversion,UI-less
+MCA infarct,0740392
+sepsis,0243026
+sepsis,0243026
+unresponsive,UI-less
+CVA,0038454
+MS changes,0278061
+slurred speech,UI-less
+CVA,0038454
+paralysis,UI-less
+memory loss,0751295
+aphagia,UI-less
+fevers,UI-less
+Seizures,0036572
+CVA,0038454
+HTN,0020538
+CVA,0038454
+PNA,0032285
+Sepsis,0243026
+hip fracture,0019557
+drainage wound,0332799
+Osteomyelitis,0029443
+drainage,UI-less
+CVA,0038454
+CVA,0038454
+anicteric,UI-less
+LAD,UI-less
+JVD,UI-less
+tachy,UI-less
+MRGs,UI-less
+course upper airway sounds,UI-less
+Abd soft,UI-less
+NTND,UI-less
+HSM,0019214
+rebound,UI-less
+guarding,UI-less
+Erythema,0041834
+dimples,UI-less
+Ext warm,UI-less
+C,0149651
+C,0010520
+E,0013604
+RBBB,0085615
+tachcardia,UI-less
+LAD,UI-less
+ST changes,UI-less
+Sinus tachy,0039239
+RBBB,0085615
+infarct,0021308
+parenchymal hemorrhage,2937358
+fusiform aneurysm,0333099
+aneurysm,0002940
+rupture,UI-less
+MCA infarction,0740392
+lesion,UI-less
+aneurysm,0002940
+mass,UI-less
+bleed,0019080
+PNA,0032285
+opacities,1265876
+vascular redistribution,UI-less
+deep sulcus sign,UI-less
+hyperlucency,UI-less
+MCA infarction,0740392
+hyperdense focus,UI-less
+hemorrhagic infarction,0472369
+midline shift,UI-less
+herniation,UI-less
+abnormal EEG,UI-less
+frequent spike,UI-less
+wave discharges,UI-less
+cortical irritability,UI-less
+encephalopathy,0085584
+infections,0021311
+toxic metabolic abnormalities,UI-less
+ischemia,0022116
+herpes encephalitis,0276226
+hemorrhage,0019080
+intraventricular hemorrhage,0240059
+distal asymmetry,UI-less
+elevation of the left MCA,UI-less
+hemorrhage,0019080
+stenosis,1261287
+stenosis,1261287
+hemorrhage,0019080
+consolidation,0521530
+infection,0021311
+aspiration,UI-less
+hypoxic respiratory failure,UI-less
+Pneumonia,0032285
+sepsis,0243026
+aspiration,UI-less
+aspiration pneumonia,0032290
+chemical pneumonitis,0264458
+hypoxia,0242184
+CHF,0018802
+PNA,0032285
+RBBB,0085615
+ST changes,UI-less
+MI,0027051
+sepsis,0243026
+Klebsiella pneumonia,0519030
+Altered mental status,0278061
+hemorrhagic stroke,0553692
+HSV encephalitis,0276226
+HSV encephalitis,0276226
+intracranial bleed,0151699
+Seizure,0036572
+seizures,0036572
+seizure,0036572
+Thrombocytosis,0836924
+inflammatory reaction,0021368
+ESR elevated,UI-less
+CRP elevated,UI-less
+ferritin elevated,UI-less
+fibrinogen elevated,UI-less
+platelet count decreasing,UI-less
+Hyperglycemia,0020456
+elevated blood sugars,UI-less
+Sacral decubitus ulcer,0558159
+sacral decubitus ulcer,0558159
+infected,0021311
+Wound,0043250
+Osteomyelitis,0029443
+chronically infected,0151317
+infectious source,0021311
+Wound,0043250
+altered mental status,0278061
+aspiration,UI-less
+agitation,0085631
+constipation,0009806
+shortness of breath,0013404
+wheezing,0043144
+constipation,0009806
+HSV Encephalitis,0276226
+Hemmorhage,0019080
+Generalize Seizure,0234533
+Sepsis,0243026
+Respiratory Failure,1145670
+Ventilator Associated Pneumonia,1701940
+Steroid Induced Diabetes Mellitus,0589117
+Anemia,0002871
+Chronic Inflammation,0021376
+Malnutrition,0162429
+Delirium,0011206
+Reactive Thrombocytosis,0457506
+Osteomyelitis,0029443
+Osteomyelitis,0029443
+Depression,0011581
+Hyperlipidemia,0020473
+Afebrile,UI-less
+infection,0021311
+HSV encephalitis,0276226
+pneumonia,0032285
+fever,UI-less
+severe pain,0278140
+difficulty breathing,0013404
+nausea,0027497
+vomiting,0042963
+symptoms,1457887
+Pneumonia,0032285
+anxiety,UI-less
+agitation,0085631
+supraglottic stenosis,0936231
+subglottic stenosis,0238441
+respiratory status,UI-less
+deep vein thrombosis,0149871
+pulmonary embolus,0034065
+deep vein thrombosis,0149871
+pulmonary embolus,0034065
+Mycoplasma pneumonia,0032302
+Acute respiratory failure,0264490
+deep vein thrombosis,0149871
+Pulmonary embolus,0034065
+respiratory distress syndrome,1704437
+Ileus,1258215
+delirium,0011206
+pain,0030193
+fever,UI-less
+nausea,0027497
+gastrointestinal upset,2697368
+nasal dryness,UI-less
+skin lesion,0037284
+oral thrush,0006849
+constipation,0009806
+lethargy,0023380
+hypotension,UI-less
+squamous cell cancer,0007137
+tonsillar cancer,0558355
+cirrohsis,0023890
+seizure disorder,0014544
+lethargy,0023380
+hypotension,UI-less
+pneumonia,0032285
+lethargy,0023380
+lethargic,0023380
+nausea,0027497
+vomiting,0042963
+BP dropped,UI-less
+edema,0013604
+MRSA,0343401
+Klebsiella,UI-less
+leukopenia,0023530
+WBC decreasing,UI-less
+infection,0021311
+clot,0302148
+low plt,UI-less
+HIT,0272285
+Squamous cell cancer,0007137
+dysphagia,0011168
+mass,UI-less
+tonsil  cancer,0558355
+Alcoholic cirrhosis,0023891
+Seizure d/o,0014544
+sz,0036572
+Psoriasis,0033860
+Pancreatitis,0030305
+Hepatic encephalopathy,0019151
+Bleeding esophageal varices,0155789
+Portal vein thrombosis,0155773
+CAD,1956346
+NAD,UI-less
+m,UI-less
+r,UI-less
+g,UI-less
+coarse breath sounds,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd Soft,UI-less
+c,0149651
+c,0010520
+e,0013604
+psoriasis,0033860
+intra axial hemorrhage,UI-less
+extra-axial hemorrhage,UI-less
+mass effect,UI-less
+shift of midline structures,UI-less
+hydrocephalus,0020255
+infarction,0021308
+intra axial hemorrhage,UI-less
+extra-axial hemorrhage,UI-less
+pleural effusion,0032227
+pneumothorax,0032326
+infiltrate,0332448
+squamous cell cancer,0007137
+tonsillar cancer,0558355
+klebsiella pna,0519030
+lethargy,0023380
+increased sputum,UI-less
+Lethargy,0023380
+increased sputum,UI-less
+tracheo-bronchitis,0040586
+colonization,UI-less
+infection,0021311
+fevers,UI-less
+WBC low,UI-less
+cough,0010200
+infections,0021311
+Hypotension,UI-less
+dehydration,0011175
+normotensive,UI-less
+LE edema,0239340
+normotensive,UI-less
+dehydration,0011175
+DVT,0149871
+HIT,0272285
+HIT,0272285
+thrombocytopenia,0040034
+Elevated Cr,UI-less
+dehydration,0011175
+cancers,0006826
+Psoriasis,0033860
+Cirrhosis,0023890
+Seizure disorder,0014544
+nausea,0027497
+pneumonia,0032285
+unresponsive,UI-less
+alcohol use,UI-less
+unresponsive,UI-less
+feeling tired,0849970
+felt tired,0849970
+unable to drive,UI-less
+recollection,UI-less
+agitated,0085631
+alert,UI-less
+agitation,0085631
+chest pain,0008031
+cycling anabolic steroids,0338671
+drug abuse,UI-less
+anicteric,UI-less
+Pupils reactive,UI-less
+lesions,UI-less
+lymphadenopathy,UI-less
+JVD,UI-less
+tachy,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+coarse breath sounds,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+Tattoo,0221258
+normal sinus rhythm,UI-less
+T wave inversions,UI-less
+T flattening,UI-less
+sinus tach,0039239
+T wave inversions,UI-less
+cardiomegaly,UI-less
+effusion,0013687
+bilateral perihilar haziness,UI-less
+fractures,0016658
+intracranial hemorrhage,0151699
+fractures,0016658
+small air fluid levels,UI-less
+mucosal thickening,UI-less
+pericardial effusion,0031039
+respiratory status,UI-less
+elevated CK,UI-less
+CK trended down,UI-less
+myocardial infarction,0027051
+anabolic steroid abuse,0338671
+insulin abuse,0274546
+substance abuse,0740858
+substance abuse,0740858
+tachycardia,UI-less
+poor decision making,UI-less
+substance abuse,0740858
+Polysubstance overdose,1571836
+substance abuse,0740858
+itchy,0033774
+Fever,UI-less
+COPD,0024117
+dementia,0497327
+Parkinson's,0030567
+schizophrenia,0036341
+febrile,UI-less
+combative,UI-less
+non-verbal,UI-less
+afib,0004238
+opacities,1265876
+COPD,0024117
+emphysema,0034067
+A fib,0004238
+Parkinsons,0030567
+Osteomyelitis,0029443
+Schizophrenia,0036341
+cachectic,0006625
+combative,UI-less
+non-verbal,UI-less
+poor dentition,UI-less
+JVP,UI-less
+irregulary irregular,UI-less
+m,UI-less
+r,UI-less
+g,UI-less
+ABD ND,UI-less
+ABD NT,UI-less
+ABD soft,UI-less
+edema,0013604
+afib,0004238
+opacities,1265876
+aspiration,UI-less
+aspiration pneumonia,0032290
+nodular opacity,UI-less
+lung nodule,UI-less
+pneumonia,0032285
+Aspiration pneumonia,0032290
+aspiration pneumonia,0032290
+Failure to thrive,0015544
+dehydrated,0011175
+Atrial fibrillation,0004238
+Schizophrenia,0036341
+agitation,0085631
+agitation,0085631
+fever,UI-less
+discomfort,0231218
+Pneumonia,0032285
+Delirium,0011206
+Failure to Thrive,0015544
+Dementia,0497327
+Schizophrenia,0036341
+Parkinson's disease,0030567
+COPD,0024117
+Atrial fibrillation,0004238
+aspiration pneumonia,0032290
+aspiration,UI-less
+dementia,0497327
+chronic obstructive pulmonary disease,0024117
+cerebrovascular accident,0038454
+right sided weakness,UI-less
+runny nose,1260880
+shortness of breath,0013404
+hoarseness,0019825
+infiltrate,0332448
+shortness of breath,0013404
+pulmonary embolism,0034065
+mass,UI-less
+nodule,0028259
+increasing troponin,UI-less
+impaired left ventricular ejection fraction,UI-less
+left ventricular end diastolic pressure,UI-less
+tachypneic,0231835
+hypoxemic,UI-less
+acute heart failure,0264714
+fluid overload,0546817
+oxygen demands decreased,UI-less
+poor left ventricular function,UI-less
+viral myocarditis,0276138
+Cerebrovascular accident,0038454
+right sided weakness,UI-less
+word finding difficulties,0454643
+Chronic obstructive pulmonary disease,0024117
+Glaucoma,0017601
+cataract,0086543
+asthma,0004096
+chronic renal failure,0022661
+exposure to chemicals,UI-less
+exposure to asbestos,UI-less
+anxious,UI-less
+respiratory distress,0476273
+surgical pupils,UI-less
+jugular venous pressure,UI-less
+lymphadenopathy,UI-less
+tachycardic,UI-less
+systolic ejection murmur,UI-less
+rhonchi,0035508
+crackles,0034642
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+cyanosis,0010520
+clubbing,0149651
+edema,0013604
+word finding difficulties,0454643
+opacity,1265876
+CONGESTIVE HEART FAILURE,0018802
+troponin elevated,UI-less
+impaired left ventricular ejection fraction,UI-less
+poor left ventricular function,UI-less
+viral myocarditis,0276138
+Congestive heart failure,0018802
+congestive heart failure,0018802
+PNEUMONIA,0032285
+community-acquired pneumonia,0694549
+productive cough,0239134
+hilar mass,UI-less
+mass,UI-less
+mass,UI-less
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE,0024117
+congestive heart failure,0018802
+chronic obstructive pulmonary disease,0024117
+GLAUCOMA,0017601
+glaucoma,0017601
+CORONARY ARTERY DISEASE,1956346
+coronary artery disease,1956346
+chest pain,0008031
+Congestive heart failure,0018802
+Viral myocarditis,0276138
+Glaucoma,0017601
+Community-acquired pneumonia,0694549
+Chronic obstructive pulmonary disease,0024117
+cerebrovascular accident,0038454
+right sided weakness,UI-less
+word finding difficulties,0454643
+Congestive heart failure,0018802
+acute renal failure,0022660
+urosepsis,0149801
+chronic ventilatory dependence,UI-less
+acute renal failure,0022660
+altered mental status,0278061
+uremic encephalopathy,0268707
+ventilator dependence,UI-less
+Acute renal failure,0022660
+hyperkalemia,UI-less
+mental status,UI-less
+mental status,UI-less
+comfort measures,UI-less
+apneic,0003578
+labored breathing,0553668
+hypoxia,0242184
+hypercarbia,0020440
+altered mental status,0278061
+comfort measures,UI-less
+distressed breathing,0476273
+Urinary tract infection,0042029
+Diabetes,0011849
+hyperglycemia,0020456
+hyperglycemic,0342243
+urinary tract infection,0042029
+comfort measures,UI-less
+Altered mental status,0278061
+mental status alteration,0278061
+infarction,0021308
+hemorrhage,0019080
+small vessel disease,2733158
+small vessel disease,2733158
+infarction,0021308
+dilated right atrium,0344709
+dilated left atrium,0344720
+Acute renal failure,0022660
+Diabetes mellitus,0011849
+Urinary tract infection,0042029
+Do Not Resuscitate,UI-less
+Do Not Intubate,UI-less
+discomfort,0231218
+cerebrovascular accident,0038454
+right hemiparesis,UI-less
+diabetes type 2,0011860
+coronary artery disease,1956346
+three vessel disease,0340285
+cataracts,0086543
+hyperlipidemia,0020473
+bipolar disorder,0005586
+found down,UI-less
+intracranial hemorrhage,0151699
+hydrocephalus,0020255
+acute myocardial infarction,0155626
+rhabdomyolysis,0035410
+decreased level of consciousness,UI-less
+mental status,UI-less
+low grade fevers,UI-less
+increased white blood cell count,UI-less
+pneumonia,0032285
+infiltrate,0332448
+infiltrate,0332448
+MRSA,0343401
+myocardial infarction,0027051
+neurological deficits,UI-less
+fevers,UI-less
+MRSA,0343401
+temperature,UI-less
+twitching,0231530
+seizure,0036572
+cortical dysfunction,UI-less
+dysfunction,UI-less
+encephalopathy,0085584
+epileptiform seizures,UI-less
+eyes deviated,0339614
+seizures,0036572
+seizures,0036572
+epileptiform events,UI-less
+fever meningismus,UI-less
+meningitis,0025289
+coarse breath sounds,UI-less
+decreased breath sounds,UI-less
+meningitis,0025289
+additional medical issues,UI-less
+respiratory distress,0476273
+pulseless,UI-less
+not breathing,UI-less
+Intraventricular hemorrhage,0240059
+hypertensive bleed,UI-less
+Meningitis,0025289
+Respiratory failure,1145670
+Coronary artery disease,1956346
+myocardial infarction,0027051
+Hyperlipidemia,0020473
+Diabetes,0011849
+cerebrovascular accident,0038454
+right hemiparesis,UI-less
+Bipolar disorder,0005586
+Aphasia,0003537
+difficulty speaking,1527347
+high grade large B-cell lymphoma,0456867
+lesion,UI-less
+speech difficulty,1527347
+Large B-cell lymphoma high grade,0456867
+NIDDM,0011860
+HTN,0020538
+Hiatal Hernia,0019284
+B12 deficiency,0042847
+heart problems,UI-less
+suicide,UI-less
+heart problems,UI-less
+obese,0028754
+NAD,UI-less
+allopecia,UI-less
+anicteric,UI-less
+carotid bruits,UI-less
+murmurs,UI-less
+ABD nondistended,UI-less
+ABD nontender,UI-less
+ABD soft,UI-less
+nonpitting edema,UI-less
+language dysfunction,0003537
+paraphasic errors,UI-less
+difficulty writing,0584995
+anomia,0003113
+dysarthria,0013362
+apraxia,0003635
+neglect,UI-less
+left right mismatch,0422885
+hemorrhages,0019080
+exudates,UI-less
+nystagmus,0028738
+ptosis,0033377
+asymmetric face,UI-less
+hearing decreased,UI-less
+Decreased touch,UI-less
+decreased vibration,UI-less
+decreased pinprick,UI-less
+fasciculations,0015644
+drift,UI-less
+adventitious movements,UI-less
+asterixis,0232766
+absent DTRS,UI-less
+toes mute,UI-less
+edema,0013604
+seizure,0036572
+uncal herniation,0393985
+b-cell lymphoma,0079731
+complication,0009566
+tumor,0027651
+tumor,0027651
+speech,UI-less
+voiding difficulty,0241705
+pain,0030193
+B-Cell Lymphoma,0079731
+brain involvement,UI-less
+redness,UI-less
+drainage,UI-less
+bleeding,0019080
+swelling,UI-less
+fever,UI-less
+brain tumor,0006118
+Respiratory distress,0476273
+Crohn's disease,0010346
+nasal congestion,0027424
+spiking temperatures,UI-less
+fevers,UI-less
+shaking chills,0085593
+myalgias,0231528
+diarrhea,0011991
+non-productive cough,0850149
+infection,0021311
+symptoms persisted,UI-less
+atypical pneumonia,1412002
+bandemia,0741439
+low grade temperatures,UI-less
+tachycardic,UI-less
+tachypneic,0231835
+infiltrate,0332448
+infiltrate,0332448
+abscess,0000833
+pneumonia,0032285
+consolidations,0521530
+sinus thickening,UI-less
+abnormalities,UI-less
+respiratory failure,1145670
+Crohn's disease,0010346
+mononucleosis,0272210
+Hypertension,0020538
+hypercholesterolemia,0020443
+rheumatoid arthritis,0003873
+Mucous membranes dry,0854113
+Diaphoretic,0700590
+tachypneic,0231835
+Tachycardic,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+crackles,0034642
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+organomegaly,UI-less
+edema,0013604
+infiltrate,0332448
+infiltrate,0332448
+sinus thickening,UI-less
+abscess,0000833
+pneumonia,0032285
+effusions,0013687
+Sinus tachycardia,0039239
+ST changes,UI-less
+Pneumonia,0032285
+respiratory failure,1145670
+PCP pneumonia,0032305
+community acquired pneumonia,0694549
+atypical pneumonia,1412002
+rash,0015230
+PCP,0032305
+consolidations,0521530
+PCP,0032305
+PCP,0032305
+legionella antigen,UI-less
+legionella,UI-less
+bacterial pneumonia,0004626
+legionella,UI-less
+Anemia,0002871
+microcytic anemia,0085576
+anemia microcytic,0085576
+iron deficiency anemia,0162316
+illness,UI-less
+Crohn's disease,0010346
+Crohn's flare,0010346
+loose stools,0011991
+illness,UI-less
+Crohn's disease,0010346
+PCP,0032305
+Crohn's,0010346
+Increased LFTs,UI-less
+reaction to Bactrim,0041755
+pneumonia,0032285
+liver disease,0023895
+abdominal pain,0000737
+elevated alkaline phosphatase,UI-less
+Pneumonia bacterial,0004626
+bilateral pleural effusions,0747635
+pneumonia,0032285
+Microcytic anemia,0085576
+iron deficiency,0240066
+Increased LFTs,UI-less
+Bactrim reaction,0041755
+withdrawal,0087169
+polysubstance abuse,0747752
+alcohol withdrawal seizures,0586323
+drunk,0001969
+using heroin,UI-less
+Sz,0036572
+uncomfortable,0234215
+withdrawel symptoms,0087169
+drinking,UI-less
+using dilaudid,UI-less
+using morphine,UI-less
+sober,UI-less
+recent binge,UI-less
+shaking,0040822
+seizures,0036572
+drinking,UI-less
+depression,0011581
+suicidal ideation,UI-less
+EtOH abuse,0085762
+Cocaine abuse,0009171
+Heroin abuse,0019337
+Hepatitis C,0019196
+Depression,0011581
+drinking,UI-less
+drinking,UI-less
+seizures,0036572
+shaking,0040822
+anicteric,UI-less
+M,UI-less
+R,UI-less
+G,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd soft,UI-less
+HSM,0019214
+edema,0013604
+rash,0015230
+cardiopulmonary abnormality,UI-less
+intracranial injury,0347535
+intracranial hemorrhage,0151699
+other acute process,UI-less
+polysubstance abuse,0747752
+EtOH intoxication,0001969
+EtOH Intoxication,0001969
+acutely intoxicated,0394996
+tremulousness,0234369
+alcohol withdrawal,0236663
+delerium tremens,0001957
+autonomic instability,UI-less
+opiate withdrawal,0029104
+dilated pupils,UI-less
+withdrawal syndrome,0152128
+leave against medical advice,UI-less
+leaving AMA,UI-less
+Depression,0011581
+SI,UI-less
+intoxicated,UI-less
+sober,UI-less
+suicidal ideation,UI-less
+actively suicidal,UI-less
+movements,UI-less
+arm moving,UI-less
+leg moving,UI-less
+seizure,0036572
+Chest pain,0008031
+chest pain,0008031
+diaphoresis,0700590
+shortness of breath,0013404
+myocardial ischemia,0151744
+Leukocytosis,0023518
+stress response,UI-less
+infection,0021311
+white count,UI-less
+Anemia,0002871
+normocytic anemia,0085577
+acute blood loss,0333276
+anemia of chronic disease,0002873
+anemia,0002871
+left AMA,UI-less
+anemia,0002871
+Heme positive stool,1321898
+iron deficiency,0240066
+blood loss,0019080
+left against medical advice,UI-less
+Ethanol withdrawal,0236663
+Ethanol Intoxication,0001969
+Polysubstance abuse,0747752
+musculoskeletal jerking,UI-less
+Non-cardiac chest pain,0476281
+alcohol withdrawal,0236663
+leaving against medical advice,UI-less
+alcohol intoxication,0001969
+withdrawal symptoms,0087169
+shaking,0040822
+seizure,0036572
+chest pain,0008031
+heart damage,0018805
+alcohol withdrawal symptoms,0236663
+opiate withdrawal,0029104
+symptoms,1457887
+chest pain,0008031
+persistant vomiting,0152165
+nausea,0027497
+withdrawal symptoms,0087169
+Abdominal pain,0000737
+adhesions,0001511
+recurrent ventral hernia,0267717
+end
+stage renal disease,0022661
+epigastric ventral hernia,2242839
+recurrence ventral hernia,0267717
+symptoms,1457887
+abdominal discomfort,0232487
+nausea,0027497
+severe pain,0278140
+epigastric ventral hernia,2242839
+ventral hernia,0019326
+inflammatory fat stranding,UI-less
+prominent loops of small bowel,UI-less
+fecalization of bowel,UI-less
+inflammatory fat stranding,UI-less
+loops of bowel distal,UI-less
+prominent loops,UI-less
+decompressed,UI-less
+incarcerated hernia,0740406
+obstruction,0028778
+end-stage renal disease,0022661
+glomerulonephritis,0017658
+IgA diagnosed,UI-less
+anuric,0003460
+calciphylaxis,0006666
+hypercalcemia,0020437
+arteriovenous fistula,0003855
+chronic pain,0150055
+rheumatic heart disease,0035439
+endocarditis,0014118
+hypertension,0020538
+Anxiety,0003469
+pain,0030193
+JVD,UI-less
+tachy,UI-less
+murmur,UI-less
+TTP,UI-less
+gaurding,UI-less
+non-distended,UI-less
+rebound,UI-less
+Prominent loops,UI-less
+ventral hernia,0019326
+fecalization of bowel contents,UI-less
+inflammatory fat stranding,UI-less
+bowel ischemia,0341424
+perforation,UI-less
+ventral hernia,0019326
+collapsed,UI-less
+incarcerated hernia,0740406
+bowel obstruction,0021843
+bowel loops,UI-less
+ventral hernia,0019326
+lesions,UI-less
+hemangiomas,0018916
+hepatic cyst,0267834
+renal osteodystrophy,0035086
+subclavian vein stenosis,0340754
+complication,0009566
+Recurrent ventral hernia,0267717
+small
+bowel obstruction,0235329
+compromised bowel,UI-less
+Chronic renal failure,0022661
+wound,0332803
+wound,0332803
+pain,0030193
+pain,0030193
+Fever,UI-less
+Inability to eat,UI-less
+persistant vomiting,0152165
+symptoms,1457887
+Hypoxic respiratory failure,UI-less
+CAD,1956346
+COP,0024117
+PVD,0085096
+AAA,0162871
+resp failure,1145670
+SSCP,0151826
+diaphoretic,0700590
+BP fell,UI-less
+CP,0008031
+PVD,0085096
+AAA,0162871
+PAF,0235480
+CVA,0038454
+COPD,0024117
+depression,0011581
+bradycardia,0428977
+brady,0428977
+JVD,UI-less
+abd nd,UI-less
+abd nt,UI-less
+abd soft,UI-less
+ext warm,UI-less
+pitting edema,0333243
+left ventricular hypertrophy,0149721
+thickened,UI-less
+aortic valve stenosis,0003507
+mitral leaflets thickened,UI-less
+pericardial effusion,0031039
+Cardiomegaly,UI-less
+tortuous aorta,UI-less
+CHF,0018802
+atelectasis,0004144
+bilateral pleural effusion,0747635
+nodular opacities,UI-less
+granulomas,0018188
+CHF,0018802
+renal artery stenosis,0035067
+chronic parenchymal disease,UI-less
+CAD,1956346
+COP,0024117
+PVD,0085096
+AAA,0162871
+resp failure,1145670
+Resp failure,1145670
+volume overload,0546817
+diastolic chf,UI-less
+renal failure,0035078
+systolic HF,1135191
+hypoxic respiratory failure,UI-less
+CHF,0018802
+acute pulmonary edema,0155919
+HTN,0020538
+diastolic HTN,0235222
+renal dysfunction,UI-less
+wall motion abnormalities,UI-less
+HTN,0020538
+chest pain,0008031
+aphasia,0003537
+aphasia,0003537
+CVA,0038454
+TIA,0007787
+TIA,0007787
+confusion,0009676
+aphasia,0003537
+aphasia,0003537
+small vessel dz,2733158
+acute infarct,0333548
+TO,UI-less
+aphagia,0003537
+TIA,0007787
+cardioembolic event,1531624
+Afib,0004238
+Ischemia,0022116
+ACS,0948089
+sig EKG changes,UI-less
+wall motion abnormalities,UI-less
+ischemia,0022116
+ARF,0022660
+creatinine bumped,UI-less
+intravascular depletion,UI-less
+renal inability to excrete Na,UI-less
+poor renal perfusion,UI-less
+nephrotic range proteinuria,0445118
+Congestive Heart Failure,0018802
+PVD,0085096
+AAA,0162871
+PAF,0235480
+CVA,0038454
+COPD,0024117
+depression,0011581
+CHF,0018802
+nodular opacities,UI-less
+serosanguineous drainage,UI-less
+wound,0332803
+drainage,UI-less
+coughing,0010200
+chest pain,0008031
+shortness of breath,0013404
+fever,UI-less
+chills,0085593
+redness wound,UI-less
+erythema wound,0406833
+coronary artery disease,1956346
+congestive heart failure,0018802
+paroxysmal atrial flutter,0741292
+paroxysmal atrial
+fibrillation,0235480
+hypercholesterolemia,0020443
+noninsulin dependent diabetes mellitus,0011860
+urosepsis,0149801
+colon carcinoma,0699790
+hypertension,0020538
+degenerative joint disease,0029408
+abdominal aortic aneurysm,0162871
+cataract,0086543
+prostate carcinoma,0600139
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+jugular venous distension,UI-less
+Coarse breath sounds,UI-less
+wound dehiscence,0259768
+serosanguineous drainage,UI-less
+erythema,0041834
+fluctuance,UI-less
+tenderness,0234233
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+edema,0013604
+cyanosis,0010520
+misaligned sternal wires,1997248
+wheezes,0043144
+Irregular rhythm,UI-less
+Irregular rate,UI-less
+erythema,0041834
+drainage,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+Extremities warm,UI-less
+edema,0013604
+erythema,0013604
+Coronary artery disease,1956346
+sternal drainage,UI-less
+Atrial fibrillation,0004238
+Hypertension,0020538
+Hypercholesterolemia,0020443
+Noninsulin dependent diabetes mellitus,0011860
+Degenerative joint disease,0029408
+Abdominal aortic aneurysm,0162871
+Colon carcinoma,0699790
+cataract,0086543
+wound,0332803
+Chest pain,0008031
+hypertension,0020538
+crushing chest pain,0232290
+diaphoresis,0700590
+ST elevations,UI-less
+2-vessel coronary artery disease,0581375
+right-dominant system,0345135
+occluded,0028778
+luminal irregularities,UI-less
+stenosis,1261287
+luminal irregularities,UI-less
+stenosis,1261287
+Hypertension,0020538
+Coronary artery disease,1956346
+coronary artery disease,1956346
+apparent distress,UI-less
+jugular venous distention,UI-less
+anicteric,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+hematoma,0018944
+femoral bruits,UI-less
+lower extremity edema,0239340
+complications,UI-less
+hematoma,0018944
+femoral bruit,UI-less
+chest pain,0008031
+flank pain,0016199
+leg pain,0023222
+left atrium dilated,0344720
+left ventricular hypertrophy,0149721
+left ventricle dilated,0344911
+left ventricular systolic function depressed,UI-less
+akinesis,0085623
+dyskinesis,0013384
+mitral regurgitation,0026266
+aortic regurgitation,0003504
+chest pain,0008031
+flank pain,0016199
+back pain,0004604
+leg pain,0023222
+INR,UI-less
+chest pain,0008031
+psoas abscess,0085222
+nonfunctional kidney,UI-less
+renal calculi,0022650
+psoas abscess,0085222
+hyperparathyroidism,0020502
+urinary calculi,UI-less
+parathyroid adenoma,0262587
+kidney non functional,UI-less
+kidney calculi,0022650
+psoas abscess,0085222
+abscess,0000833
+CAD,1956346
+MI,0027051
+HTN,0020538
+CHF,0018802
+Nephrolithiasis,0392525
+PAF,0235480
+Retroperitoneal hematoma,UI-less
+agitated,0085631
+JVD,UI-less
+SEM,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd soft,UI-less
+erythematous,0041834
+edema,0013604
+edema,0013604
+pneumothorax,0032326
+congestive heart failure,0018802
+ureter stones,0041952
+hydronephrosis,0020295
+diverticulosis,1510475
+diverticulitis,0012813
+Cholelithiasis,0008350
+Cardiomegaly,UI-less
+Bilateral pleural effusions,0747635
+hepatic cysts,0267834
+chronic kidney failure,0022661
+ureteral calculi,0041952
+psoas abcess,0085222
+psoas abcess,0085222
+complication,0032787
+abcess,0000833
+A-Fib,0004238
+inappropriate pacemaker response,0340914
+PM failure to capture,0340923
+Wide complex V-tach,0344429
+NSVT,2919575
+ventricular irritability,UI-less
+agitated,0085631
+insomnia,0917801
+sleep,UI-less
+agitation,0085631
+non functional left kidney,UI-less
+psoas abscess,0085222
+chest pain,0008031
+chest pain radiated,0232289
+shortness of breath,0013404
+diaphoresis,0700590
+congestive heart failure,0018802
+hypotensive,0520541
+MI,0027051
+aortic dissection,0340643
+non-Q-wave MI,0542269
+AFib,0004238
+hypertension,0020538
+TIA,0007787
+cardiomyopathy,0878544
+holosystolic murmur,0232258
+extremities warm,UI-less
+edema,0013604
+aortic dissection,0340643
+hypertensive,0020538
+atrial fibrillation,0004238
+atrial fibrillation,0004238
+ventricular response rate up,UI-less
+follow commands,UI-less
+atrial fibrillation,0004238
+without strength,0004093
+rapid atrial fibrillation,1281999
+hypertensive,0020538
+atrial fibrillation,0004238
+atrial fibrillation,0004238
+sinus rhythm,UI-less
+weak,1883552
+lethargic,0023380
+breath sounds diminished,UI-less
+erythema,0041834
+drainage,UI-less
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+extremities warm,UI-less
+edema,0013604
+aortic dissection,0340643
+Atrial fibrillation,0004238
+Hypertension,0020538
+Transient ischemic attacks,0007787
+back pain,0004604
+kyphosis,0022821
+kyphosis,0022821
+disc degeneration,0158266
+low back pain,0024031
+Afebrile,UI-less
+blood loss,0019080
+complications,0009566
+low hematocrit,UI-less
+pain,0030193
+intraoperative bleeding,0079027
+coagulopathy,0005779
+kyphosis,0022821
+wound,0332803
+pain,0030193
+wound,0332803
+Assault,0004063
+assault,0004063
+orbital fracture,0029184
+AIDS,0001175
+GERD,0017168
+Depression,0011581
+PTSD,0038436
+Substance abuse,0740858
+ASSAULT,0004063
+BLEED,0019080
+assault,0004063
+GCS,UI-less
+bleed,0019080
+assault,0004063
+intracranial hemorrhage,0151699
+intracranial hemorrhage,0151699
+mass effect,UI-less
+shift midline structures,UI-less
+soft tissue swelling,UI-less
+trauma,0043251
+fractures,0016658
+fluid,UI-less
+opacification,1265876
+fluid,UI-less
+intracranial hemorrhage,0151699
+mass effect,UI-less
+Soft tissue swelling,UI-less
+fracture,0016658
+ASSAULT,0004063
+FX,0016658
+assault,0004063
+GCS,UI-less
+fx,0016658
+assault,0004063
+GCS,UI-less
+fracture,0016658
+malalignment,1275957
+fractures,0016658
+degenerative,0011164
+osteophytes,1956089
+narrowing,1261287
+indenting,UI-less
+osteophyte,1956089
+narrows,1261287
+compresses spinal cord,0037926
+osteophyte,1956089
+narrows,1261287
+compresses cord,0037926
+narrowing,1261287
+osteophyte,1956089
+narrows,1261287
+soft tissue swelling,UI-less
+fracture,0016658
+malalignment,1275957
+Degenerative,0011164
+narrowing,1261287
+ASSAULT,0004063
+FX,0016658
+assault,0004063
+fracture,0016658
+assault,0004063
+fractures,0016658
+fluid accumulation,UI-less
+fracture,0016658
+equal in height,UI-less
+pneumatized,UI-less
+Fracture,0016658
+Fluid accumulation,UI-less
+fractures,0016658
+orbital fracture,0029184
+injury,0175677
+injury,0175677
+injuries,0175677
+injuries,0175677
+suicidality,UI-less
+depression,0011581
+substance use,0740858
+EtOH use,0085762
+balance issues,0241981
+pain,0030193
+constipation,0009806
+constipation,0009806
+Assault,0004063
+orbital fracture,0029184
+fevers,UI-less
+headache,0018681
+visual disturbances,0547030
+dizziness,0012833
+chest pain,0008031
+shortness of breath,0013404
+abdominal pain,0000737
+symptoms,1457887
+anoxic brain injury,0003132
+pneumococcal sepsis,0152966
+complications,0009566
+hypercholesterolemia,0020443
+depression,0011581
+could not breathe,UI-less
+unresponsive,UI-less
+bradycardic,0428977
+PEA arrest,UI-less
+VF,0042510
+sinus tach,0039239
+pneumococcl sepsis,0152966
+ARDS,0035222
+ARF,0022660
+depression,0011581
+hypercholesterolemia,0020443
+multinodular goiter,0342208
+IVDA,UI-less
+DM,0011849
+prostate CA,0376358
+ovarian cancer,0029925
+CVA,0038454
+seizures,0036572
+myoclonus,0027066
+anicteric,UI-less
+carotid bruits,UI-less
+multinodular goiter,0342208
+course BS,UI-less
+murmurs,UI-less
+Abd obese,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd soft,UI-less
+HSM,0019214
+edema,0013604
+hemorrhages,0019080
+hyperpigmentation,0162834
+dolls,0234446
+spontaneous movements,UI-less
+gag reflex,UI-less
+myoclonus,0027066
+spontaneous movement,UI-less
+Hypotonic,1579769
+upgoing,UI-less
+cardiac arrest,0018790
+pericardial effusion,0031039
+tamponade,0007177
+PE,0034065
+atelectasis,0004144
+goiter,0018021
+loss of gray-white differentiation,UI-less
+edema,0013604
+ischemia,0022116
+frequent discharges,UI-less
+non-convlusive status,UI-less
+periodic epileptiform discharges,UI-less
+PEA arrest,UI-less
+Chest pain,0008031
+CAD,1956346
+HTN,0020538
+hyperlipidemia,0020473
+CP,0008031
+exertional CP,0232288
+chest pressure,0438716
+SSCP,0151826
+SOB,0013404
+diaphoresis,0700590
+STE,UI-less
+STD,UI-less
+occluded SVG,0018128
+3VD,0340285
+stenosed,1261287
+R sided pressure,UI-less
+L sided pressure,UI-less
+asymptomatic,UI-less
+CP,0008031
+SOB,0013404
+diaphoresis,0700590
+nausea,0027497
+pain,0030193
+CAD,1956346
+HTN,0020538
+Hyperlipidemia,0020473
+stroke,0038454
+rheumatic fever,0035436
+JVP,UI-less
+carotid bruits,UI-less
+distant HS,UI-less
+m,UI-less
+g,UI-less
+r,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd soft,UI-less
+edema,0013604
+three vessel coronary artery disease,0340285
+left main coronary artery disease,1299433
+occluded,0028778
+occluded,0028778
+coronary artery stenosis,0242231
+stenoses,1261287
+PDA,0013274
+occluded,0028778
+elevated right sided filling pressures,UI-less
+elevated left sided filling pressures,UI-less
+pulmonary hypertension,0020542
+systemic hypertension,0020538
+left atrium dilated,0344720
+left ventricular systolic  dysfunction,1277187
+hypokinesis,0086439
+ascending aorta dilated,0345049
+aortic regurgitation,0003504
+mitral regurgitation,0026266
+mitral valve prolapse,0026267
+systolic hypertension,0221155
+pericardial effusion,0031039
+left ventricular systolic dysfunction,1277187
+CAD,1956346
+CAD,1956346
+HTN,0020538
+hyperlipidemia,0020473
+STEMI,1303258
+Ischemia,0022116
+STEMI,1303258
+hypotensive,0520541
+glucose intolerance,0271650
+DM,0011849
+impaired glucose tolerance,0271650
+volume overloaded,UI-less
+elevated L sided pressures,UI-less
+changes cardiac function,UI-less
+HTN,0020538
+hypotensive,0520541
+normotensive,UI-less
+Hyperlipidemia,0020473
+ACS,0948089
+ST elevation myocardial infarction,1303258
+Coronary Artery Disease,1956346
+afebrile,UI-less
+chest pain,0008031
+shortness of breath,0013404
+nausea,0027497
+vomiting,0042963
+diarrhea,0011991
+abdominal pain,0000737
+symptom,1457887
+Right hemiparesis,UI-less
+dysarthria,0013362
+hypertension,0020538
+right-sided weakness,UI-less
+stroke,0038454
+weak,1883552
+fell,0000921
+head injury,0018674
+loss of consciousness,UI-less
+fall,0000921
+speech slurred,UI-less
+infarct,0021308
+lesions,UI-less
+Carotid stenosis,0007282
+mitral regurgitation,0026266
+pulmonic insufficiency,0034088
+basilar stenosis,0265097
+fevers,UI-less
+chills,0085593
+headaches,0018681
+visual changes,UI-less
+blurry vision,0344232
+double vision,0012569
+chest pain,0008031
+palpitations,UI-less
+shortness of breath,0013404
+nausea,0027497
+vomiting,0042963
+urinary incontinence,0042024
+urinary frequency,UI-less
+parasthesias,0030554
+incoordination,0520966
+dizziness,0012833
+vertigo,0042571
+Hypertension,0020538
+fracture,0016658
+Osteoarthritis,0029408
+cataract,0086543
+strokes,0038454
+MI,0027051
+muscular dystrophy,0026850
+NAD,UI-less
+Anicteric,UI-less
+masses,UI-less
+LAD,UI-less
+JVD,UI-less
+thyromegaly,0018021
+carotid bruits,UI-less
+R,0034642
+R,0035508
+W,0043144
+M,UI-less
+R,UI-less
+G,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd Soft,UI-less
+rebound,UI-less
+guarding,UI-less
+HSM,0019214
+Extrem Warm,UI-less
+C,0149651
+C,0010520
+E,0013604
+dysarthria,0013362
+paraphasic errors,UI-less
+apraxia,0003635
+neglect,UI-less
+right/left confusion,0422885
+nystagmus,0028738
+facial droop,0427055
+Tongue fasciculations,0239548
+Tone decreased,0026827
+abnormal movements,0392702
+tremors,0040822
+right drift,UI-less
+Intact to light touch,UI-less
+propioception,UI-less
+Grasp reflex,UI-less
+Toes upgoing,UI-less
+motor weakness,1536698
+right hemiparesis,UI-less
+dysarthria,0013362
+infarct,0021308
+occlusion,0028778
+stenosis,1261287
+patent foramen ovale,0016522
+embolus,UI-less
+stroke,0038454
+embolic,0262469
+hypercholesterolemia,0020443
+stenosis,1261287
+regained some strength,UI-less
+speech improved,UI-less
+aspiration,UI-less
+stroke,0038454
+stop anticoagulation,UI-less
+Stroke,0038454
+Hypertension,0020538
+Osteoarthritis,0029408
+cataract,0086543
+dysarthira,0013362
+upper extremity weakness,UI-less
+lower extremity weakness,0751410
+weakness,1883552
+numbness,0028643
+difficulty speaking,1527347
+chest pain,0008031
+symptoms,1457887
+Stroke,0038454
+hypertension,0020538
+hypoglycemia,0020615
+diabetes mellitus type II,0011860
+hypertension,0020538
+mechanical fall,UI-less
+fracture,0016658
+loss of consiousness,UI-less
+malaise,0231218
+confusion,0009676
+poor POs,UI-less
+hypoglycemia,0020615
+mass,UI-less
+nausea,0027497
+passed out,0312422
+diaphoretic,0700590
+tumor,0027651
+hypoglycemia,0020615
+hypoglycemia,0020615
+diarrhea,0011991
+constipation,0009806
+abdominal pain,0000737
+dysuria,0013428
+hematuria,UI-less
+BRBPR,UI-less
+HA,0018681
+f,UI-less
+c,0085593
+s,UI-less
+weight changes,UI-less
+diaphoresis,0700590
+dizziness,0012833
+CP,0008031
+SOB,0013404
+palpitations,UI-less
+emesis,0042963
+ankle swelling,1536390
+Type 2 diabetes mellitus,0011860
+mass,UI-less
+hip fracture,0019557
+Hypertension,0020538
+LV diastolic dysfunction,1273070
+DM,0011849
+malignancy,1306459
+MI,0027051
+NAD,UI-less
+muddy sclerae,UI-less
+poor dentition,UI-less
+JVD,UI-less
+thyromegaly,0018021
+nodules,0028259
+m,UI-less
+r,UI-less
+g,UI-less
+Ab ND,UI-less
+Ab NT,UI-less
+Ab soft,UI-less
+fullness,UI-less
+Extrem warm,UI-less
+pitting edema,0333243
+c,0149651
+c,0010520
+e,0013604
+Skin warm,0235218
+flushed,UI-less
+mass,UI-less
+internal fat,UI-less
+arterial-phase enhancement,UI-less
+peripheral enhancement,UI-less
+mass,UI-less
+parasitization,UI-less
+tumor,0027651
+broad ligament fibroid,0404480
+enlarged lymph nodes,UI-less
+non aggressive process,UI-less
+DMII,0011860
+hypoglycemia,0020615
+mass,UI-less
+hypoglycemia,0020615
+Hypoglycemia,0020615
+tumor,0027651
+symptoms,1457887
+hypoglycemia,0020615
+symptoms,1457887
+mass,UI-less
+mass,UI-less
+benign,UI-less
+mass,UI-less
+DM2,0011860
+asymptomatic,UI-less
+HTN,0020538
+poorly controlled blood pressure,UI-less
+pain,0030193
+Hypoglycemia,0020615
+mass,UI-less
+diabetes,0011849
+hypertension,0020538
+hypoglycemia,0020615
+fevers,UI-less
+sweating,0700590
+chills,0085593
+chest pain,0008031
+shortness of breath,0013404
+dizziness,0012833
+nausea,0027497
+fatigue,0015672
+symptoms,1457887
+mass,UI-less
+SSCP,0151826
+DOE,0231807
+CAD,1956346
+HTN,0020538
+hypercholesterolemia,0020443
+SSCP,0151826
+PND,1956415
+palpitations,UI-less
+NSVT,2919575
+CAD,1956346
+stenosis,1261287
+stenosis,1261287
+stenosis,1261287
+hypokinesis,0086439
+SSCP,0151826
+associated symptoms,0521989
+N,0027497
+V,0042963
+radiations,UI-less
+diaphoresis,0700590
+pain,0030193
+NSVT,2919575
+right dominant system,0345135
+single vessel coronary artery disease,0581374
+TO,UI-less
+RCA tortuous,UI-less
+stenoses,1261287
+MR,0026266
+dissection,UI-less
+pain,0030193
+lesion,UI-less
+pain,0030193
+Hypercholesterolemia,0020443
+HTN,0020538
+CAD,1956346
+GERD,0017168
+Skin warm,0235218
+dry skin,0151908
+rash,0015230
+syst murmur,UI-less
+JVP flat,UI-less
+rales,0034642
+Abd nd,UI-less
+Abd nt,UI-less
+Abd soft,UI-less
+HSM,0019214
+ecchymosis,UI-less
+tender,0234233
+ecchymosis,UI-less
+tender,0234233
+bruits,UI-less
+lower extremity edema,0239340
+clubbing,0149651
+cyanosis,0010520
+erythema,0041834
+CAD,1956346
+HTN,0020538
+hyperchol,0020443
+SSCP,0151826
+PND,1956415
+palpitations,UI-less
+NSVT,2919575
+stenosis,1261287
+lesion,UI-less
+tortuous,UI-less
+RCA dissection,0340648
+pain,0030193
+pain,0030193
+dissection,UI-less
+CP,0008031
+SOB,0013404
+DOE,0231807
+PND,1956415
+Cardiac enzymes,UI-less
+NSTEMI,1276061
+pain,0030193
+tortuous artery,UI-less
+hypotension,UI-less
+NSR,UI-less
+PVCs,0151636
+reperfusion,UI-less
+NSR,UI-less
+ectopy,UI-less
+GERD,0017168
+hematuria,UI-less
+hct drop,UI-less
+urinary loss,UI-less
+Unstable angina,0002965
+RCA dissection,0340648
+Loss of consciousness,UI-less
+stage 4 CKD,2317473
+CAD,1956346
+HTN,0020538
+asthma,0004096
+multiple falls,0000921
+brady,0428977
+shaky,0040822
+tremulous,0234369
+Gait unsteady,UI-less
+generalized weakness,1883552
+fevers,UI-less
+chills,0085593
+sweats,0700590
+diarrhea,0011991
+CP,0008031
+palpitations,UI-less
+SOB,0013404
+nauseated,0027497
+emesis,0042963
+unresponsive,UI-less
+bradycardic,0428977
+wide complex tachycardia,UI-less
+Hyperkalemia,UI-less
+bradycardia,0428977
+wide complex tachycardia,UI-less
+hypotension,UI-less
+CAD,1956346
+Asthma,0004096
+CKD,0403447
+Polycystic kidney disease,0022680
+HTN,0020538
+Prostate CA,0376358
+M,UI-less
+R,UI-less
+G,UI-less
+ABD NT,UI-less
+ABD ND,UI-less
+ABD Soft,UI-less
+EXT warm,UI-less
+C,0149651
+C,0010520
+E,0013604
+Hyporeflexia,UI-less
+ESRD,0022661
+CAD,1956346
+HTN,0020538
+asthma,0004096
+hyperkalemia,UI-less
+arrythmias,UI-less
+Hyperkalemia,UI-less
+hyperkalemia,UI-less
+hyperkalemia,UI-less
+inadequate HD,UI-less
+incomplete HD,UI-less
+hyperaldo,0020428
+Dysrythmias,0003811
+conduction disease,0264886
+RBB blocks,0085615
+fascicular blocks,0015643
+bradycardic,0428977
+junctional rhythm,0232208
+hypotensive,0520541
+hyperkalemic,UI-less
+dysrythmias,0003811
+wide-complex tachycardia,UI-less
+dysrythmias,0003811
+hyperkalemia,UI-less
+CAD,1956346
+ESRD,0022661
+polycystic kidney disease,0022680
+Hypoxia,0242184
+hypoxic,0242184
+hypoxia,0242184
+asthma exacerbation,UI-less
+COPD exacerbation,UI-less
+COPD,0024117
+PNA,0032285
+HTN,0020538
+Anemia,0002871
+Chronic anemia,0581384
+macrocytic,0002886
+anemia of chronic kidney disease,UI-less
+anemia of chronic disease,0002873
+Iron low,UI-less
+ferritin elevated,UI-less
+TIBC low,UI-less
+Thrombocytopenia,UI-less
+HIT,0272285
+splenic sequestration,UI-less
+enlarged liver,UI-less
+Elevated CK,UI-less
+falls,0000921
+Elevated Aminotransferases,UI-less
+polycystic liver disease,0158683
+Hyperkalemia,UI-less
+elevated potassium,UI-less
+heart rhythm abnormality,0003811
+chest pains,0008031
+palpitations,UI-less
+dizziness,0012833
+lightheadedness,0220870
+shortness of breath,0013404
+fevers,UI-less
+nausea,0027497
+vomiting,0042963
+muscle pain,0231528
+symptoms,1457887
+food impaction,UI-less
+achalasia,UI-less
+hiatal hernia,0019284
+food impaction,UI-less
+food impaction,UI-less
+food got stuck,UI-less
+compalints,UI-less
+afebrile,UI-less
+CP,0008031
+SOB,0013404
+RBBB,0085615
+food compaction,UI-less
+Pale mucosa,UI-less
+friable mucosa,UI-less
+paraesophageal hernia,0267725
+torsion,1265748
+paraesophageal hernia,0267725
+Hypertension,0020538
+Hypercholesterolemia,0020443
+Kidney stone,0022650
+hydrocele,1720771
+Spinal stenosis,0037944
+Right inguinal hernia,0262617
+Hiatal hernia,0019284
+Food impaction,UI-less
+gastric cancer,0024623
+NAD,UI-less
+murmurs,UI-less
+Abdomen NT,UI-less
+Abdomen soft,UI-less
+edema,0013604
+foreign body,0016542
+pneumomediastinum,0025062
+impacted,0333124
+aspiration,UI-less
+solid food distal esophagus,UI-less
+paraesophageal hernia,0267725
+food in the hernia sac,UI-less
+mucosa friable,UI-less
+mucosa pale,UI-less
+ischemic,0022116
+torsion,1265748
+Food gastroesophageal junction,UI-less
+Food lower third of the esophagus,UI-less
+foreign body,0016542
+Pale mucosa,UI-less
+friable mucosa,UI-less
+paraesophageal hernia,0267725
+torsion,1265748
+Scarring,0008767
+atelectasis,0004144
+acute process,UI-less
+nonpropulsive tertiary contraction,UI-less
+hiatal hernia,0019284
+achalasia,UI-less
+gastroesophageal reflux,0017168
+presbyesophagus,0262605
+hiatal hernia,0019284
+achalasia,UI-less
+hiatal hernia,0019284
+food impaction,UI-less
+food impacted,UI-less
+Food Impaction,UI-less
+food impaction,UI-less
+achalasia,UI-less
+GI motility disorder,UI-less
+HH hernia,0019284
+food impaction,UI-less
+paraesophageal hernia,0267725
+torsion,1265748
+infarction,0021308
+tortion,1265748
+hernia,0019270
+HTN,0020538
+hypercholesterolemia,0020443
+food impaction,UI-less
+paraesophageal hernia,0267725
+food impaction,UI-less
+hiatal hernia,0019284
+fever,UI-less
+chills,0085593
+chest pain,0008031
+shortness of breath,0013404
+nausea,0027497
+vomiting,0042963
+diarrhea,0011991
+pain swallowing,0221150
+difficulty swallowing,0011168
+symptoms,1457887
+somnolence,UI-less
+primitive neuroectodermal tumor,0206663
+mets,2939419
+gangliogliom,0206716
+back pain,0004604
+mets,2939419
+NET,0206093
+enhancement,UI-less
+lesion,UI-less
+metastatic disease,2939419
+disease,0012634
+lesion,UI-less
+mets,2939419
+pain,0030193
+somnolence,UI-less
+lucid moments,UI-less
+alert moments,UI-less
+slurring speech,UI-less
+making grammatical errors,UI-less
+mental status,UI-less
+mental status,UI-less
+meningitis,0025289
+mental status,UI-less
+somnolent,UI-less
+drowsy,UI-less
+weakness,1883552
+tingling,2242996
+neurologic deficits,UI-less
+fevers,UI-less
+chills,0085593
+stiff neck,0151315
+photophobia,0085636
+urinary symptoms,0278028
+bowel symptoms,UI-less
+Ganglioma,0206716
+Primitive Neuroectodermal tumor,0206663
+mets,2939419
+ill-appearing,UI-less
+rashes,0015230
+sores,UI-less
+LAD,UI-less
+bruits,UI-less
+JVD,UI-less
+SEM,UI-less
+r,UI-less
+g,UI-less
+erythema,0041834
+tenderness,0234233
+w,0043144
+r,0034642
+r,0035508
+Abd nd,UI-less
+Abd nt,UI-less
+Abd soft,UI-less
+masses,UI-less
+c,0149651
+c,0010520
+e,0013604
+facial droop,0427055
+facial asymmetry,1306710
+decreased sensation to light touch,0752255
+pronator drift,1504476
+lesion,UI-less
+intraventricular blood,UI-less
+lesions,UI-less
+Delta MS,0278061
+oversedation,UI-less
+somnolence,UI-less
+mental status,UI-less
+meningitis,0025289
+meningitis,0025289
+thrombocytopenia,0040034
+mental status,UI-less
+pain,0030193
+pain,0030193
+Neuroectodermal tumor,0206093
+herniation,0019270
+midline shift,UI-less
+visual field cuts,UI-less
+cerebral edema,0006114
+Pancytopenia,0030312
+related to chemotherapy,UI-less
+bleeding,0019080
+neutropenic,0027947
+Pain,0030193
+pain,0030193
+pain,0030193
+pain,0030193
+oversedation,UI-less
+Constipation,0009806
+pain,0030193
+somnolent,UI-less
+oversedated,UI-less
+constipation,0009806
+Primitive Neuroectodermal Tumor,0206663
+Somnolence,UI-less
+oversedation,UI-less
+fever,UI-less
+chills,0085593
+chest pain,0008031
+shortness of breath,0013404
+weakness,1883552
+Pain,0030193
+respiratory depression,0235063
+cyanosis,0010520
+found down,UI-less
+unresponsive,UI-less
+cyanotic,0010520
+unresponsive,UI-less
+withdraw from pain,UI-less
+opened eyes,UI-less
+pin point pupils,UI-less
+unresponsive,UI-less
+pupils reactive to light,UI-less
+vomited,0042963
+pain,0030193
+pain,0030193
+increased Cr,UI-less
+hyperglycemia,0020456
+hyperkalemia,UI-less
+thrombocytosis,0836924
+opacity,1265876
+aspiration,0700198
+mediastinal widening,UI-less
+HTN,0020538
+DM,0011849
+HepC,0019196
+depression,0011570
+IVDA,UI-less
+back injury,0004601
+chronic pain,0150055
+pain,0030193
+Asthma,0004096
+bronchitis,0006277
+OSA,0520679
+CAD,1956346
+back injury,0004601
+IVDA,UI-less
+non-responsive,UI-less
+thick neck,UI-less
+bronchial BS,0231873
+coarse sounds,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+Abd obese,UI-less
+Abd distended,UI-less
+Abd Soft,UI-less
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+limb movements,UI-less
+DTRs,UI-less
+freckles,UI-less
+psoriatic,0033860
+bleed,0019080
+mass,UI-less
+opacities,1265876
+sinus tachy,0039239
+mental status,UI-less
+Hypoperfusion,UI-less
+drugs,UI-less
+seizure,0036572
+bleed,0019080
+mass,UI-less
+Neuro status,UI-less
+resp failure,1145670
+respiratory status,UI-less
+Dec resp. drive,UI-less
+rep depression,0235063
+afebril,UI-less
+aspiration,0700198
+Hyper K,UI-less
+EKG changes,UI-less
+Elevated CK,UI-less
+Elevated CK,UI-less
+cardiac enzyme fractions,UI-less
+HTN,0020538
+cocaine o/d,0573196
+Elevated LFTs,UI-less
+shock liver,UI-less
+toxic metabolic injury,UI-less
+chronic hep C,0524910
+Elevated Cr,UI-less
+prerenal,UI-less
+Polysubstance abuse,0747752
+overdose,0029944
+Polysubstance abuse,0747752
+Hypertension,0020538
+chest pain,0008031
+shortness of breath,0013404
+nausea,0027497
+vomiting,0042963
+exertional chest discomfort,0232288
+chest discomfort,0235710
+rest symptoms,UI-less
+terminally ill,0679247
+ST depressions,UI-less
+ST depressions,UI-less
+hypokinesis,0086439
+hypokinesis,0086439
+aortic stenosis,0003507
+mitral regurgitation,0026266
+ostial stenosis,0345120
+hypertension,0020538
+hyperlipidemia,0020473
+osteoporosis,0029456
+basal cell carcinoma of the face,1304291
+cerebrovascular accident,0038454
+apparent distress,UI-less
+afebrile,UI-less
+lymphadenopathy,UI-less
+thyromegaly,0018021
+bruits,UI-less
+murmur,UI-less
+rubs,UI-less
+murmur radiated,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+masses,UI-less
+hepatosplenomegaly,0019214
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+atrial fibrillation,0004238
+sinus rhythm,UI-less
+atrial fibrillation,0004238
+pain,0030193
+renal function,UI-less
+chest pain,0008031
+relief,UI-less
+thoracic luminal diameter,UI-less
+thrombosis,UI-less
+increase in size of the lumen,UI-less
+chest pain,0008031
+back pain,0004604
+dissection,UI-less
+changes on EKG,UI-less
+drop in blood pressure,UI-less
+substernal chest pain,0151826
+EKG changes,UI-less
+relief,UI-less
+EKG changes,UI-less
+dissection,UI-less
+dissection,UI-less
+substernal chest pain,0151826
+MRSA,0343401
+gram negative pneumonia,0854248
+afebrile,UI-less
+somnolence,UI-less
+confusion,0009676
+mental status changes,0278061
+left gazed deviation,UI-less
+right hemiparesis,UI-less
+Laminar necrosis,0333517
+hemorrhage,0019080
+Sinus disease,0030469
+mental status,UI-less
+increased speech,UI-less
+movement,UI-less
+Stroke,0038454
+substernal chest pain,0151826
+aortic dissection,0340647
+infarct,0021308
+Aortic dissection, type B,0340647
+Cerebrovascular accident,0038454
+Hypertension,0020538
+Aspiration pneumonia,0032290
+ARDS,0035222
+Acute renal failure,0022660
+Methicillin-resistant Staphylococcus aureus bacteremia,0343401
+chest pain,0008031
+constipation,0009806
+Parkinson's Disease,0030567
+Obstipation,0221152
+Hypertension,0020538
+constipation,0009806
+DOE,0231807
+SOB,0013404
+AS,0003507
+AS,0003507
+Aortic stenosis,0003507
+Hypertension,0020538
+Hypercholesterolemia,0020443
+Diabetes Mellitus Type 2,0011860
+Glaucoma,0017601
+Varicosities,0042345
+Renal Calculi,0022650
+cataract,0086543
+RHF,2939447
+lesions,UI-less
+JVD,UI-less
+Murmur,UI-less
+w,0043144
+r,0034642
+r,0035508
+SEM,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd Soft,UI-less
+c,0149651
+c,0010520
+e,0013604
+varicosities,0042345
+AS,0003507
+atelectasis,0004144
+pleural effusion,0032227
+rales,0034642
+dimished bs,UI-less
+decreased breath sounds,UI-less
+atelectasis,0004144
+effusion,0013687
+pneumonia,0032285
+effusion,0013687
+atelectasis,0004144
+pnuemonia,0032285
+decreased bs,UI-less
+atelectasis,0004144
+pain,0030193
+Aortic stenosis,0003507
+Hypertension,0020538
+Hypercholesterolemia,0020443
+Diabetes Mellitus Type 2,0011860
+Glaucoma,0017601
+Varicosities,0042345
+Renal Calculi,0022650
+wounds,0332803
+mitral valve prolapse,0026267
+mitral regurgitation,0026266
+tricuspid regurgitation,0040961
+flail mitral valve leaflet,UI-less
+dilated left atrium,0344720
+dyspnea on exertion,0231807
+palpitations,UI-less
+asymptomatic,UI-less
+mitral regurgitation,0026266
+mitral valve prolapse,0026267
+Hypertension,0020538
+seizures,0036572
+transient ischemic attacks,0007787
+headaches,0018681
+cough,0010200
+wheezes,0043144
+sputum,0425512
+gastroesophageal reflux disease,0017168
+nausea,0027497
+diarrhea,0011991
+decreased range of motion,UI-less
+acute distress,UI-less
+systolic ejection murmur,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen Soft,UI-less
+Extremities Warm,UI-less
+edema,0013604
+afebrile,UI-less
+murmur,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+Extremities warm,UI-less
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+erythema,0041834
+pneumothorax,0032326
+Hypertension,0020538
+Cardiac Arrest,0018790
+chest pain,0008031
+cardiac arrest,0018790
+ventricular tachycardia,0042514
+stenosed,1261287
+stenosed,1261287
+Hypercholesterolemia,0020443
+Hypothyroidism,0020676
+JVD,UI-less
+carotid bruits,UI-less
+anicteric,UI-less
+murmur,UI-less
+ABDOMEN nondistended,UI-less
+ABDOMEN nontender,UI-less
+ABDOMEN Soft,UI-less
+hepatosplenomegally,0019214
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+atrial flutter,0004239
+A-V conduction,UI-less
+Intraventricular conduction delay,UI-less
+lateral myocardial infarction,0340312
+myocardial infarction,0027051
+ST segment elevations,UI-less
+ischemia,0022116
+depressed LV systolic function,UI-less
+wall motion abnormalities,UI-less
+CAD,1956346
+mitral regurgitation,0026266
+aortic regurgitation,0003504
+left ventricular hypertrophy,0149721
+systolic dysfunction,0749225
+CAD,1956346
+aortic regurgitation,0003504
+left ventricular systolic function,UI-less
+aortic regurgitation,0003504
+LMCA disease,1299433
+stenosis,1261287
+lesion,UI-less
+stenoses,1261287
+elevated left-sided pressures,UI-less
+elevated pulmonary pressures,UI-less
+cardiac index supranormal,UI-less
+opacity,1265876
+pleural effusion,0032227
+stenosed,1261287
+stenosed,1261287
+complication,0009566
+ventricular arrythmias,UI-less
+bronchial secretions,UI-less
+ventricular tachycardia arrest,UI-less
+low ejection fraction,UI-less
+left ventricular ejection fraction,UI-less
+Coronary artery disease,1956346
+Chest Pain,0008031
+AS,0003507
+hyperlipidemia,0020473
+chest pain on exersion,0232288
+chest discomfort with exertion,0232288
+belching,0014724
+ischemia,0022116
+AS,0003507
+Coronary Artery Disease,1956346
+Aortic Stenosis,0003507
+Hyperlipidemia,0020473
+Hiatal hernia,0019284
+Gilberts disease,0017551
+NAD,UI-less
+LAD,UI-less
+systolic ejection murmur,UI-less
+systolic ejection murmur,UI-less
+Abd nondistended,UI-less
+Abd nontender,UI-less
+Abd Soft,UI-less
+edema,0013604
+hematoma,0018944
+carotid bruits,UI-less
+NAD,UI-less
+Abd soft,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+edema,0013604
+pneumothorax,0032326
+free air,0032320
+consolidation,0521530
+pulmonary edema,0034063
+pleural effusions,0032227
+pneumothorax,0032326
+free air,0032320
+bilateral pleural effusions,0747635
+mass,UI-less
+thrombus,0087086
+atheroma,0264956
+ascending aorta dilated,0345049
+atheroma,0264956
+descending thoracic   aorta dilated,UI-less
+atheroma,0264956
+aortic valve stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+pericardial effusion,0031039
+hypertrophied,0020564
+obstruction,0028778
+gradient,UI-less
+aortic valve regurgitation,0003504
+angina,0002962
+disease,0012634
+Aortic stenosis,0003507
+Coronary artery disease,1956346
+Aortic stenosis,0003507
+Hyperlipidemia,0020473
+Hiatal hernia,0019284
+Gilberts disease,0017551
+wounds drainage,0332799
+wounds redness,0406833
+wounds infection,0043241
+pain,0030193
+fever,UI-less
+weight gain,UI-less
+Wound,0332803
+cerebral aneurysm,0917996
+headaches,0018681
+hypertension,0020538
+diabetes,0011849
+hepatitis C,0019196
+depression,0011581
+headaches,0018681
+hypertension,0020538
+diabetes,0011849
+hepatitis C,0019196
+depression,0011581
+aneurysm,0002940
+tortuous,UI-less
+hemorrhage,0019080
+Headache,0018681
+mitral valve regurgitation,0026266
+mitral valve prolapse,0026267
+sternal drainage,UI-less
+drainage,UI-less
+complaints,UI-less
+afebrile,UI-less
+serosanguinous staining,UI-less
+edema,0013604
+temperature,UI-less
+complaints,UI-less
+sternum drainage,UI-less
+erythema,0041834
+warm,0235218
+erythematous,0041834
+wound,0043250
+wound,0043250
+fluid collection,UI-less
+fever,UI-less
+pleural effusion,0032227
+cellulitis,0007642
+pain,0030193
+discomfort,UI-less
+afebrile,UI-less
+dark blood,UI-less
+drainage,UI-less
+wound,0043250
+dysphagia,0011168
+peripheral neuropathy,0031117
+exhausted,0392674
+complaints,UI-less
+febrile,UI-less
+sternum drainage,UI-less
+wound drainage,0332799
+induration wound,UI-less
+hematoma,0018944
+crackles,0034642
+crackles,0034642
+systolic murmur,UI-less
+induration wound,UI-less
+complaints,UI-less
+wound,0043250
+wound,0043250
+wound,0043250
+crackles,0034642
+systolic ejection murmur,UI-less
+edema,0013604
+sternum drainage,UI-less
+fatigued,0015672
+complaints,UI-less
+signs of aspiration,UI-less
+symptoms of aspiration,UI-less
+hematoma,0018944
+wound,0043250
+bilateral pleural effusions,0747635
+loculated component,UI-less
+gouty tophus erythematous nodule,UI-less
+erythema,0041834
+gouty nodule,UI-less
+septic arthritis,1692886
+papular erythematous lesion,UI-less
+complaints,UI-less
+systolic murmur,UI-less
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+Insulin dependent diabetes mellitus,0011854
+Hyperlipidemia,0020473
+transient ischemic attacks,0007787
+azotemia,0242528
+Depression,0011581
+gouty nodule,UI-less
+abdominal distention,UI-less
+weakness,1883552
+shortness of breath,0013404
+type B aortic dissection,0340647
+abdominal aortic aneurysm,0162871
+RCIA,UI-less
+aneurysm,0002940
+renal artery stenosis,0035067
+hepatitis B,0019163
+cirrhosis,0023890
+shortness of breath,0013404
+abdominal distention,UI-less
+fatigue,0015672
+guaiac positive stools,UI-less
+varices,0042345
+erosions,0333307
+portal hypertension,0020541
+hemorrhoids,0019112
+Type B aortic dissection,0340647
+Cirrhosis,0023890
+Hepatitis B,0019163
+Abdominal aortic aneurysm,0162871
+varices,0042345
+ascites,UI-less
+RC one aneurysm,UI-less
+aneurysm,0002940
+renal stenosis,0035067
+CRI,0022661
+acute distress,UI-less
+JVD,UI-less
+systolic ejection murmur,UI-less
+Abdomen shifting dullness,UI-less
+distention,0012359
+pedal edema,0574002
+sacral edema,0235438
+infiltrate,0332448
+congestive heart failure,0018802
+opacity,1265876
+dissection iliac,0340649
+dissection abdominal aorta,0837143
+infrarenal abdominal aortic aneurysm,0741151
+common iliac aneurysm,0700638
+internal iliac aneurysm,0340636
+renal artery cirrhosis,UI-less
+cirrhosis of the liver,0023890
+portal hypertension,0020541
+varices,0042345
+pulmonary nodule,UI-less
+tortuous aorta,UI-less
+aortic dissection,0340646
+aortic dissection,0340646
+Shortness of breath,0013404
+pneumonia,0032285
+shortness of breath,0013404
+volume overload,UI-less
+lung nodule,UI-less
+opacity,1265876
+atelectasis,0004144
+pneumonia,0032285
+pleural effusion,0032227
+pneumonia,0032285
+hypoxia,0242184
+iron deficiency anemia,0162316
+bleeding varices,0333106
+bleeding hemorrhoids,0265031
+hepatitis B cirrhosis,UI-less
+increasing abdominal girth,UI-less
+SBP,0275551
+cirrhosis,0023890
+ascites,UI-less
+nodular liver,UI-less
+cirrhosis,0023890
+enlarged spleen,UI-less
+ascites,UI-less
+aortic dissection,0340646
+dissection,UI-less
+renal dysfunction,UI-less
+ATN,0022672
+hypotension,UI-less
+aortic dissection,0340646
+hypotension,UI-less
+stenosis in both renal arteries,0856760
+echogenic kidney,UI-less
+renal disease,0022658
+Liver cirrhosis,0023890
+Renal failure,0035078
+Aortic aneurysm,0003486
+hypercholesterolemia,0020443
+right bundle branch block,0085615
+osteoporosis,0029456
+nausea,0027497
+weakness,1883552
+unable to get up,UI-less
+weakness,1883552
+palpitations,UI-less
+PND,1956415
+orthopnea,0085619
+lower extremity edema,0239340
+lower extremity edema,0239340
+chest pressure,0438716
+chest pain,0008031
+dizziness,0012833
+loss of consciousness,UI-less
+bradycardic,0428977
+left bundle branch block,0023211
+complete heart block,0151517
+complete heart block,0151517
+Hyperlipidemia,0020473
+Gastroesophageal reflux disease,0017168
+Hiatal hernia,0019284
+Dementia,0497327
+Catatonic depression,UI-less
+Spinal stenosis,0037944
+Urinary retention,UI-less
+Osteoporosis,0029456
+Cataracts,0086543
+Chronic constipation,0401149
+Sciatica,0036396
+acute distress,UI-less
+depressed affect,UI-less
+Dry mucous membranes,0854113
+crackles,0034642
+Bradycardic,0428977
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+Abdomen tenderness,0232498
+Abdomen tenderness,0232498
+Abdomen nondistended,UI-less
+Abdomen Soft,UI-less
+clubbing,0149651
+cyanosis,0010520
+pitting edema,0333243
+extremities cool,UI-less
+COMPLETE HEART BLOCK,0151517
+complete heart block,0151517
+chest pressure,0438716
+chest pressure,0438716
+cardiac enzymes,UI-less
+EKG changes,UI-less
+cardiac enzymes normal,UI-less
+chest pressure,0438716
+hematoma,0018944
+pericardial effusion,0031039
+effusion,0013687
+CORONARY ARTERY DISEASE,1956346
+coronary artery disease,1956346
+chest pressure,0438716
+cardiac enzymes normal,UI-less
+EKG changes,UI-less
+BONE LUCENCY,UI-less
+lucency,UI-less
+lucent lesion,UI-less
+lucent lesion,UI-less
+lucent lesion,UI-less
+metastatic disease,2939419
+multiple myeloma,0026764
+benign bony lesion,UI-less
+humerus lucency,UI-less
+OSTEOPOROSIS,0029456
+GASTROESOPHAGEAL REFLUX DISEASE,0017168
+flat affect,0233471
+ANEMIA,0002871
+Complete heart block,0151517
+Hyperlipidemia,0020473
+Gastroesophageal reflux disease,0017168
+hiatal hernia,0019284
+Depression,0011570
+Anemia,0002871
+Osteoporosis,0029456
+lucency,UI-less
+Rectal cancer,0007113
+Rectal cancer,0007113
+colon adenocarcinoma,0338106
+rectal adenocarcinoma,0149978
+cancers,0006826
+rectal cancer,0007113
+cancer,0006826
+acute distress,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+scars,2004491
+pitting edema,0333243
+extremities warm,UI-less
+noncyanotic,UI-less
+nonedematous,UI-less
+colon adenocarcinoma,0338106
+Rectal adenocarcinoma,0149978
+Hypertension,0020538
+atrial fibrillation,0004238
+Clostridium difficile infection,0343386
+rectal cancer,0007113
+complication,0009566
+mental status changes,0278061
+lethargic,0023380
+agitated,0085631
+intermittently violent,UI-less
+disoriented,0233407
+crackles,0034642
+altered mental status,0278061
+pneumonia,0032285
+pneumonia,0032285
+psychosis,0033975
+mental status,UI-less
+agitation,0085631
+respiratory distress,0476273
+aspiration pneumonia,0032290
+pain,0030193
+pain,0030193
+coronary artery disease,1956346
+exertional angina,0577698
+defect,UI-less
+left ventricular hypertrophy,0149721
+hypokinesis,0086439
+Coronary artery disease,1956346
+Hyperlipidemia,0020473
+diseased,0012634
+lesion,UI-less
+lesion,UI-less
+ventricular fibrillation,0042510
+sinus rhythm,UI-less
+jaundice,0022346
+liver function tests,UI-less
+ischemic hepatitis,0473117
+arrest,UI-less
+obstruction,0028778
+cholecystitis,0008325
+liver function tests rise,UI-less
+hepatitis,0019158
+weak,1883552
+narrowing carotids,0007282
+rapid atrial fibrillation,1281999
+decrease blood pressure,0232107
+elevated liver function tests,UI-less
+elevated liver enzymes,UI-less
+atrial fibrillation,0004238
+agitation,0085631
+confusion,0009676
+pain,0030193
+watershed stroke,0333557
+hypoperfusion,UI-less
+upper extremity weakness,0751409
+atrial fibrillation,0004238
+ventricular fibrillation,0042510
+elevated white blood cell count,UI-less
+pancreatitis,0030305
+ventricular fibrillation,0042510
+ischemic state,UI-less
+pancreatitis,0030305
+left upper quadrant pain,0238552
+pancreatitis,0030305
+abdominal pain,0000737
+abdominal pain,0000737
+strength,UI-less
+weakness,1883552
+rub,UI-less
+murmur,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+incision,0332803
+erythema,0041834
+drainage,UI-less
+erythema,0041834
+edema,0013604
+Coronary artery disease,1956346
+ventricular fibrillation,0042510
+atrial fibrillation,0004238
+pancreatitis,0030305
+ischemic hepatitis,0473117
+Coronary artery disease,1956346
+ischemic pulmonary edema,UI-less
+dyskinesis,0013384
+Coronary artery disease,1956346
+cardiomegaly,UI-less
+arthritis,0003864
+Lung cancer,0684249
+Hyperlipidemia,0020473
+Non-Insulin-dependent diabetes mellitus,0011860
+Decreased hearing,UI-less
+Chronic low back pain,0457949
+Gastritis,0017152
+Obesity,0028754
+hard of hearing,UI-less
+acute distress,UI-less
+JVD,UI-less
+ABDOMEN nontender,UI-less
+ABDOMEN obese,UI-less
+ABDOMEN Soft,UI-less
+hematoma,0018944
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+pulmonary hypertension,0020542
+left ventricular failure,0023212
+failure,0023212
+contraindication,UI-less
+delirious mental status changes,UI-less
+delirium,0011206
+impairment,0684336
+mobility,UI-less
+acute events,UI-less
+afebrile,UI-less
+Coronary artery disease,1956346
+Pulmonary hypertension,0020542
+Hypertension,0020538
+Non-Insulin-dependent diabetes mellitus,0011860
+Hyperlipidemia,0020473
+arthritis,0003864
+chronic low back pain,0457949
+diabetes mellitus,0011849
+endstage renal disease,0022661
+unresponsive,UI-less
+asystolic,0018790
+blood pressure,UI-less
+unresponsive,UI-less
+dissection,UI-less
+dissection,UI-less
+infarct,0021308
+thalamic infarcts,1611171
+brain stem reflexes,UI-less
+not responsive,UI-less
+papilledema,0030353
+poor prognosis,UI-less
+CHF,0018802
+insulin dependent diabetes mellitus,0011854
+triopathy,UI-less
+chronic renal insufficiency,0022661
+Hepatitis C,0019196
+hypertension,0020538
+high cholesterol,0020443
+hyperparathyroidism,0020502
+brain dead,UI-less
+brain death,UI-less
+asystolic,0018790
+anoxic brain injury,0003132
+brain death,UI-less
+found down,UI-less
+Vfib arrest,UI-less
+cardiac arrest,0018790
+unresponsive,UI-less
+seizure,0036572
+VFib arrest,UI-less
+unresponsive,UI-less
+pulseless,UI-less
+apneic,0003578
+pupils fixed dilated,UI-less
+GCS,UI-less
+Vfib,0042510
+unresponsive,UI-less
+GCS,UI-less
+ST elevations,UI-less
+ST elevations,UI-less
+lesion,UI-less
+occlussion,0028778
+occlussion,0028778
+occlussion,0028778
+lesion,UI-less
+lesion,UI-less
+RCA occlussion,1290385
+distal flow,UI-less
+occlusions,0028778
+Hypothermia,UI-less
+VFib arrest,UI-less
+posturing,UI-less
+deviation of eyes,0339614
+extension,0231450
+hypertension,0020538
+tachycardia,UI-less
+Hypothermia,UI-less
+SCD,0002895
+SCD,0002895
+hyperlipidemia,0020473
+Diabetes,0011849
+unresponsive,UI-less
+bruise on forhead,0432747
+murmurs,UI-less
+exp wheezing,0231875
+ABD ND,UI-less
+ABD NT,UI-less
+ABD Soft,UI-less
+edema,0013604
+SKIN lesions,0037284
+unresponsive,UI-less
+pupils pinpoint,UI-less
+pupils sluggishly reactive to light,UI-less
+vestibulo-ocular reflex,UI-less
+sedated,UI-less
+GCS,UI-less
+prolonged QTc,UI-less
+ST elevations,UI-less
+ST dep,UI-less
+ST elevations,UI-less
+ST elevations,UI-less
+LVH,0149721
+3 vessel coronary artery disease,0340285
+Elevated left sided filling pressures,UI-less
+Elevated right sided filling pressures,UI-less
+depressed cardiac index,UI-less
+RCA occlusions,1290385
+occlusions,0028778
+left ventricular systolic function depressed,UI-less
+akinesis,0085623
+aortic  root dilated,0238669
+VFib arrest,UI-less
+STEMI,1303258
+3VD,0340285
+anoxic brain injury,0003132
+VFib arrest,UI-less
+Vifib arrest,UI-less
+STEMI,1303258
+sinus rhythm,UI-less
+Cooling,UI-less
+hypothermia,0020672
+cardiac arrest,0018790
+rewarming,UI-less
+arrhythmias,0003811
+STEMI,1303258
+ST segment elevations,UI-less
+elevated CE's,UI-less
+STE,UI-less
+3VD,0340285
+MI,0027051
+UGI bleed,0041909
+left ventricular systolic function depressed,UI-less
+akinesis,0085623
+depressed CI,UI-less
+elevated PCWP,UI-less
+Anoxic Brain injury,0003132
+Seizure,0036572
+myoclonic jerking,0027066
+posturing,UI-less
+cerebral ischemia,0917798
+seizure,0036572
+bleed,0019080
+stroke,0038454
+status epilepticus,0038220
+seizure,0036572
+seizure,0036572
+Respiratory Failure,1145670
+CHF,0018802
+flash pulm edema,0155919
+ARDS,0035222
+Hypotension,UI-less
+Fever,UI-less
+infiltrate,0332448
+aspiration pneumonia,0032290
+respiratory issues,0035204
+Loose tooth,UI-less
+Transaminitis,UI-less
+elevated Transaminases,UI-less
+elevated lactate,UI-less
+shock liver,UI-less
+UGIB,0041909
+bleeding,0019080
+bleeding,0019080
+Leukocytosis,0023518
+MI,0027051
+chronic obstructive pulmonary disease,0024117
+coronary artery disease,1956346
+mass,UI-less
+mass,UI-less
+collapse,UI-less
+dyspnea on exertion,0231807
+dyspnea on exertion,0231807
+lower extremity edema,0239340
+left against medical advise,UI-less
+shortness of breath,0013404
+dyspnea,0013404
+lower extremity edema,0239340
+chronic cough,0010201
+weight loss,UI-less
+hemoptysis,0019079
+deep vein thrombosis,0149871
+pleural effusion,0032227
+cardiomegaly,UI-less
+INR decreased,UI-less
+mass,UI-less
+acute respiratory distress,0748355
+respiratory failure,1145670
+distress,UI-less
+mass,UI-less
+Atrial fibrillation,0004238
+Chronic obstructive pulmonary disease,0024117
+Rheumatic heart disease,0035439
+Coronary artery disease,1956346
+Pulmonary artery hypertension,0020542
+Biatrial enlargement,UI-less
+Hyperlipidemia,0020473
+Hypothyroidism,0020676
+hepatitis,0019158
+decreased breath sounds,UI-less
+coarse breath sounds,UI-less
+rales,0034642
+mechanical heart sounds,UI-less
+pitting edema,0333243
+tenderness,0234233
+opacification,1265876
+hemothorax,0019123
+large right atrium,UI-less
+atrial fibrillation,0004238
+right axis deviation,UI-less
+T-wave inversions,UI-less
+ST changes,UI-less
+mass,UI-less
+mass,UI-less
+malignancy,1306459
+non-small cell lung cancer,0007131
+malignancy,1306459
+hypercalcemic,0020437
+lung cancer,0684249
+mass,UI-less
+compression,UI-less
+respiratory function,UI-less
+symptoms,1457887
+respiratory function,UI-less
+Respiratory failure,1145670
+respiratory failure,1145670
+lung mass,UI-less
+copious amount of secretions,UI-less
+lung mass,UI-less
+lung disease,0024115
+chronic obstructive pulmonary disease,0024117
+chronic obstructive pulmonary disease,0024117
+terminal illness,0679247
+respiratory arrest,0162297
+respiratory arrest,0162297
+rate junctional,UI-less
+asystolic,0018790
+Lung cancer,0684249
+atrial fibrillation,0004238
+Chronic obstructive pulmonary disease,0024117
+Hypercalcemia malignancy,0149911
+Coronary artery disease,1956346
+Change in mental status,0278061
+mixed dementia,0349078
+ESRD,0022661
+change in mental status,0278061
+seizures,0036572
+afebrile,UI-less
+hypertensive urgency,0745138
+AMS,0278061
+multifactorial,UI-less
+dementia,0497327
+hypertensive encephalopathy,0151620
+hypercalcemia,0020437
+labile blood glucose,UI-less
+disoriented,0233407
+End-stage renal disease,0022661
+Diabetic nephropathy,0011881
+AV fistula,0003855
+Noninsulin-dependent diabetes mellitus,0011860
+Hypertension,0020538
+Encephalopathy,0085584
+AV fistula,0003855
+corn,0010046
+vascular dementia,0011269
+alzheimer's dementia,0002395
+afebrile,UI-less
+LAD,UI-less
+m,UI-less
+r,UI-less
+g,UI-less
+Abd ND,UI-less
+Abd NT,UI-less
+Abd soft,UI-less
+organomegaly,UI-less
+c,0149651
+c,0010520
+edema,0013604
+OA,0029408
+AV fistula,0003855
+sinus brady,0085610
+prolonged Qtc,UI-less
+LVH,0149721
+STE,UI-less
+repolarization abnormalities,UI-less
+St wave changes,UI-less
+T wave changes,UI-less
+pneumonia,0032285
+intracranial hemorrhage,0151699
+mixed dementia,0349078
+mental status changes,0278061
+confusion,0009676
+hypertensive urgency,0745138
+elevated systolic pressure,UI-less
+normotensive,UI-less
+change in mental status,0278061
+multifactorial,UI-less
+dementia,0497327
+hypertensive encephalopathy,0151620
+hypercalcemia,0020437
+mentation,UI-less
+hypercalcemia,0020437
+chronic renal failure,0022661
+chronic renal insufficiency,0022661
+hyperparathyroidism,0020502
+hyperphosphatemia,0085681
+End-stage renal disease,0022661
+NIDDM,0011860
+dementia,0497327
+encephalopathy,0085584
+chest pain,0008031
+shortness of breath,0013404
+fevers,UI-less
+abdominal pain,0000737
+chest pressure,0438716
+arm pain,0239377
+HTN,0020538
+Hypercholesterolemia,0020443
+arm pain,0239377
+chest tightness,0232292
+chest pain,0008031
+GERD,0017168
+HTN,0020538
+Hypercholesterolemia,0020443
+Retinal detachments,0339440
+heart disease,0018799
+MI,0027051
+NAD,UI-less
+rashes,0015230
+Anicteric,UI-less
+dyssymetric,UI-less
+erythema,0041834
+tonsillar enlargement,0272386
+tongue midline,UI-less
+stiffness,0427008
+masses,UI-less
+LAD,UI-less
+bruits,UI-less
+JVD,UI-less
+supraclavicular LAD,0749155
+axillary LAD,0578735
+Wheezes,0043144
+Rhonchi,0035508
+Crackles,0034642
+Murmurs,UI-less
+Gallops,UI-less
+Rubs,UI-less
+CVA Tenderness,0235634
+tenderness,0234233
+organomegaly,UI-less
+masses,UI-less
+guarding,UI-less
+rebound,UI-less
+clubbing,0149651
+cyanosis,0010520
+edema,0013604
+right dominant sytem,0345135
+single vessel CAD,0581374
+RCA occluded,1290385
+thrombus,0087086
+PDA,0013274
+stenosis,1261287
+stenosis,1261287
+lesions,UI-less
+elevated systemic 
+
+pressures,UI-less
+single vessel coronary artery disease,0581374
+elevated systemic pressures,UI-less
+acute inferior myocardial infarction,0264700
+right dominant sytem,0345135
+single vessel CAD,0581374
+RCA occluded,1290385
+thrombus,0087086
+PDA,0013274
+stenosis,1261287
+stenosis,1261287
+lesions,UI-less
+elevated systemic 
+
+pressures,UI-less
+single vessel coronary artery disease,0581374
+elevated systemic pressures,UI-less
+acute inferior myocardial infarction,0264700
+Sinus bradycardia,0085610
+ST segment elevations,UI-less
+inferior infarction,0340305
+inferior ischemia,UI-less
+Right bundle-branch block,0085615
+Left anterior fascicular block,0264912
+right bundle-branch block,0085615
+T wave inversions,UI-less
+deep Q waves,UI-less
+inferior ischemia,UI-less
+inferior infarction,0340305
+IMI,0340305
+pain,0030193
+lesion,UI-less
+pain,0030193
+Coronary Artery Disease,1956346
+Acute ST Segment Elevation Myocardial Infarction,1303258
+chest pain,0008031
+chest pain,0008031
+chest pressure,0438716
+symptomes,1457887
+heart attack,0027051
+3VD,0340285
+ESOPHAGITIS,0014868
+GASTRIC ULCERS,0341178
+cad,1956346
+htn,0020538
+hyperlipidemia,0020473
+NIDDM,0011860
+DOE,0231807
+n,0027497
+v,0042963
+diaphoresis,0700590
+STEMI,1303258
+afib,0004238
+RVR,UI-less
+hypotension,0520541
+sx,1457887
+AF,0004238
+HTN,0020538
+Hyperchol,0020443
+NIDDM,0011860
+Prostate ca,0376358
+Gout,0018099
+NAD,UI-less
+JVD,UI-less
+bruits,UI-less
+m,UI-less
+r,UI-less
+g,UI-less
+obese abd,UI-less
+c,0149651
+c,0010520
+e,0013604
+STEMI,1303258
+rapid afib,1281999
+STEMI,1303258
+sx,1457887
+3VD,0340285
+occluded RCA,1290385
+melena,0025222
+esophagitis,0014868
+esoph ulcers,0151970
+MR,0026266
+pulm HTN,0020542
+AFIB,0004238
+AFIB,0004238
+GIB,0017181
+melena,0025222
+iron deficiency anemia,0162316
+AOCD,0002873
+UGIB,0041909
+esophagitis,0014868
+multiple ulcers,1265815
+UTI,0042029
+complications,0009566
+DM,0011849
+diabetic,0011849
+glycemic control,UI-less
+chest pain,0008031
+chest pain,0008031
+pain,0030193
+STEMI,1303258
+CAD,1956346
+3 VESSEL DISEASE,0340285
+ESOPHAGITIS,0014868
+GIB,0017181
+GASTRIC ULCERS,0341178
+DIABETES Type II,0011860
+Chronic renal insufficiency,0022661
+paroxysmal atrial fibrillation,0235480
+CHEST TIGHTNESS,0232292
+CHEST PRESSURE,0438716
+CHEST PAIN,0008031
+SHORTNESS OF BREATH,0013404
+symptoms,0231217
+heart rate,UI-less
+arrhythmia,0003811
+diabetic,0011849
+abnormal stress echocardiogram,UI-less
+restenosis,0333186
+silent MI,0340324
+heartburn,0018834
+anxiety,UI-less
+stomach polyp,0236048
+esophageal polyp,0281838
+chest pain,0008031
+EKG changes,UI-less
+akinesis,0085623
+aortic sclerosis,1331537
+AI,0003504
+thickened,UI-less
+MR,0026266
+left ventricular hypertrophy,0149721
+TR,0040961
+pulmonary hypertension,0020542
+hypokinesis,0086439
+stenosis,1261287
+occlusion,0028778
+occlusion,0028778
+occluded,0028778
+RCA occluded,1290385
+GERD,0017168
+Silent MI,0340324
+prostate cancer,0376358
+PVD,0085096
+Stomach polyp,0236048
+anxiety,UI-less
+bruits,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+murmurs,UI-less
+rubs,UI-less
+gallops,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+incision,0332803
+Coronary artery disease,1956346
+Abdominal pain,0000737
+abdominal pain,0000737
+common iliac aneurysm,0700638
+common iliac aneurysm,0700638
+ischemic,0022116
+iliac aneurysm,0162870
+common iliac aneurysm,0700638
+Hay fever,0018621
+decreased bolus control,UI-less
+spillage,0015376
+poor epiglottic dysflexion,UI-less
+aspiration,UI-less
+deep vein thrombosis,0149871
+deep vein thrombosis,0149871
+persistent fevers,0476474
+hilum lymphadenopathy,0456973
+axillary lymphadenopathy,0578735
+lymphadenopathy,UI-less
+bilateral pleural effusions,0747635
+infiltrates,0332448
+gallstones,0008350
+wall thickening,UI-less
+pericholecystic fluid collection,UI-less
+kidney simple cyst,0268800
+free fluid,0013687
+free air,0032320
+hematoma,0018944
+extravasation,0015376
+collection,UI-less
+hematoma,0018944
+low lung volumes,UI-less
+atelectasis,0004144
+pulmonary edema,0034063
+iliac aneurysm,0162870
+iliac vein injured,0160733
+sepsis,0243026
+bleeding,0019080
+pleural effusions bilaterally,0747635
+serosal small bowel tear,0434081
+aspiration,UI-less
+aspiration,UI-less
+iliac aneurysm,0162870
+iliac vein injury,0160733
+Bilateral pleural effusions,0747635
+Aspiration,UI-less
+thrombus,0087086
+Blood loss anemia,0948824
+Hypertension,0020538
+insulin dependent diabetes mellitus,0011854
+retinopathy,0011884
+neuropathy,0011882
+nephropathy,0011881
+ESRD,0022661
+Hypertension,0020538
+papillary cancer,0007133
+acute distress,UI-less
+Adomen soft,UI-less
+tenderness,0234233
+complications,0009566
+passed flatus,0016204
+afebrile,UI-less
+temperature spikes,UI-less
+CMV,UI-less
+CMV positive,UI-less
+afebrile,UI-less
+hypertension,0020538
+papillary cancer,0007133
+hypertension,0020538
+diabetes mellitus,0011849
+black stool,0025222
+abdominal pain,0000737
+hypotensive,0520541
+blood pressure,UI-less
+coffee ground emesis,1510416
+hematocrit decreased,UI-less
+esophageal ulcers,0151970
+bleeding,0019080
+bleeding,0019080
+urinary tract infection,0042029
+complaints,0231217
+pain,0030193
+chest pain,0008031
+pain with urination,0013428
+hunger,0020175
+Depression,0011570
+Hypertension,0020538
+Diabetes mellitus,0011849
+Aphasia,0003537
+Hypercholesterolemia,0020443
+CVA,0038454
+Decubitus ulcer,0011127
+osteomyelitis,0029443
+Diastolic dysfunction,0520863
+Dementia,0497327
+Gallstones,0008350
+Spinal stenosis,0037944
+urinary infection,0042029
+C. difficile,UI-less
+pulmonary sarcoidosis,0036205
+Peripheral vascular disease,0085096
+coronary artery disease,1956346
+afebrile,UI-less
+tachycardiac,UI-less
+hypotensive,0520541
+tachypneic,0231835
+overweight,0497406
+tachycardiac,UI-less
+crackles,0034642
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+masses,UI-less
+hepatosplenomegaly,0019214
+Thin,UI-less
+leg ulcer,0023223
+hematocrit down,UI-less
+elevation right hemidiaphragm,UI-less
+infiltrates,0332448
+congestive heart failure,0018802
+UPPER GASTROINTESTINAL BLEED,0041909
+ulcers,0041582
+clot,0302148
+oozing,1446325
+gastritis,0017152
+bleeding,0019080
+increase hematocrit,UI-less
+URINARY TRACT INFECTION,0042029
+urinary tract infection,0042029
+HYPERTENSION,0020538
+hypertension,0020538
+hypotensive,0520541
+blood pressure stable,UI-less
+GALLSTONES,0008350
+DEPRESSION,0011570
+depression,0011570
+DIABETES MELLITUS,0011849
+diabetic,0011849
+DECUBITUS FOOT ULCER,0577716
+osteomyelitis,0029443
+foot ulcer,0085119
+heel ulcer,0577718
+Upper gastrointestinal bleed,0041909
+Esophageal ulcers,0151970
+Urinary tract infection,0042029
+esophageal ulcers,0151970
+coronary artery disease,1956346
+dilated cardiomyopathy,0007193
+congestive heart failure,0018802
+change in mental status,0278061
+right middle lobe pneumonia,0578577
+febrile,UI-less
+mental status,UI-less
+defervescence,UI-less
+weight loss,UI-less
+decreased oral intake,UI-less
+failure to thrive,0015544
+elevated digoxin level,UI-less
+elevated CPK,UI-less
+hypotensive,0520541
+fevers,UI-less
+chills,0085593
+chest pain,0008031
+shortness of breath,0013404
+abdominal pain,0000737
+Coronary artery disease,1956346
+stenosis,1261287
+coronary artery stenosis,0242231
+stenosis,1261287
+Congestive heart failure,0018802
+Tricuspid regurgitation,0040961
+cerebral vascular accident,0038454
+Seizure disorder,0014544
+Hypothyroidism,0020676
+Gout,0018099
+Benign prostatic hypertrophy,0005001
+Atrial fibrillation,0004238
+Chronic renal insufficiency,0022661
+nasopharyngeal carcinoma,2931822
+tremulous,UI-less
+acute distress,UI-less
+jugular venous pressure,UI-less
+thyromegaly,0018021
+lymphadenopathy,UI-less
+decreased breath sounds,UI-less
+decreased breath sounds,UI-less
+rales,0034642
+wheezes,0043144
+rhonchi,0035508
+murmurs,UI-less
+abdomen nondistended,UI-less
+abdomen nontender,UI-less
+abdomen soft,UI-less
+cyanosis,0010520
+clubbing,0149651
+edema,0013604
+slow to respond,UI-less
+infiltrate,0332448
+cardiomegaly,UI-less
+congestive heart failure,0018802
+wide QRS complex,UI-less
+ST wave changes,UI-less
+T wave changes,UI-less
+myocardial infarction,0027051
+pneumonia,0032285
+sepsis,0243026
+hypotension,UI-less
+community acquired pneumonia,0694549
+mental status,UI-less
+Pneumonia,0032285
+Coronary artery disease,1956346
+Congestive heart failure,0018802
+cerebral vascular accident,0038454
+Seizure disorder,0014544
+Hypothyroidism,0020676
+Gout,0018099
+Benign prostatic hypertrophy,0005001
+Atrial fibrillation,0004238
+Chronic renal insufficiency,0022661
+PNA,0032285
+Downs syndrome,0013080
+resp distress,0476273
+desatureated,UI-less
+PNA,0032285
+LLL PNA,0584104
+O2 sats,UI-less
+cannot swallow,UI-less
+yelling,UI-less
+non verbal,UI-less
+able to answer questions,UI-less
+Downs syndrome,0013080
+Alzheimer's dementia,0002395
+Hepatitis B,0019163
+Urinary retention,UI-less
+UTI,0042029
+Tonsilar hypertrophy,0155829
+compression fractures,0521169
+hip fractures,0019557
+Down's syndrome,0013080
+hip fractures,0019557
+nonverbal,UI-less
+moans when touched,UI-less
+resp distress,0476273
+mm dry,0854113
+Abd soft,UI-less
+Abd scaphoid,0238532
+contractures,0009917
+decreased bulk,UI-less
+edema,0013604
+rashes,0015230
+aspiration pneumonia,0032290
+hypoxia,0242184
+aspirating,UI-less
+dementia,0497327
+aspiration,UI-less
+aspiration pneumonia,0032290
+discomfort,UI-less
+pain,0030193
+Aspiration pneumonia,0032290
+Down's syndrome,0013080
+Alzheimer's dementia,0002395
+Carotid Stenosis,0007282
+HTN,0020538
+Hyperlipidemia,0020473
+DM,0011849
+TIA,0007787
+dizzy,0012833
+unsteady,1579067
+symptoms,1457887
+L sided hearing loss,0521785
+tinnitus,UI-less
+transient visual loss,0155003
+scotomas,0036454
+tingling,2242996
+numbness,0028643
+weakness,1883552
+stenosis ICA,0340569
+stenosis ICA,0340569
+complaints,UI-less
+dysarthria,0013362
+weakness,1883552
+numbness,0028643
+paresthesias,0030554
+HA,0018681
+visual changes,0042798
+F,UI-less
+C,0085593
+NS,0028081
+wt loss,UI-less
+cough,0010200
+SOB,0013404
+CP,0008031
+peripheral edema,UI-less
+BRBPR,UI-less
+Melena,0025222
+claudication,1458622
+PND,1956415
+orthopnea,0085619
+HTN,0020538
+Hyperlipidemia,0020473
+DM,0011849
+Traumatic glaucoma,0339594
+cataract,0086543
+cataract,0086543
+basal cell carcinoma,0007117
+CAD,1956346
+MI,0027051
+CAD,1956346
+NAD,UI-less
+afferent pupillary defect,0339663
+tonsillar exudates,UI-less
+bruits,UI-less
+thyromegaly,0018021
+MRG,UI-less
+ABD ND,UI-less
+ABD NT,UI-less
+ABD Soft,UI-less
+HSM,0019214
+CCE,UI-less
+femoral bruit,UI-less
+masses,UI-less
+APD,UI-less
+q-waves,UI-less
+ST segment changes,UI-less
+stenosis,1261287
+stenosis,1261287
+heterogeneous  calcified plaquing,UI-less
+stenosis,1261287
+stenosis,1261287
+L sided hearing loss,0521785
+HTN,0020538
+Hyperlipidemia,0020473
+DM,0011849
+TIA,0007787
+Carotid Stenosis,0007282
+neurological deficits,UI-less
+Afferent pupillary defect,UI-less
+low vision,0042798
+trauma,0043251
+cataract,0086543
+Diabetes Mellitus,0011849
+weight loss,UI-less
+cardiac disease,0018799
+anginal,0002962
+cardiac risk factors,UI-less
+DM,0011849
+Carotid Stenosis,0007282
+Hypertension,0020538
+Hyperlipidemia,0020473
+carotid stenosis,0007282
+clot,0302148
+stroke,0038454
+death,UI-less
+weakness,1883552
+numbness,0028643
+tingling,2242996
+slurred speech,UI-less
+chest pain,0008031
+shortness of breath,0013404
+end-stage renal disease,0022661
+toxicity,0013221
+IGA nephropathy,0017661
+AV fistula,0003855
+chronic hepatitis B,0524909
+Hypertension,0020538
+End-stage renal disease,0022661
+toxicity,0013221
+IgA nephropathy,0017661
+Rheumatoid arthritis,0003873
+Depression,0011581
+GERD,0017168
+hernia,0019270
+AV fistula,0003855
+acute distress,UI-less
+anicteric,UI-less
+lymphadenopathy,UI-less
+thyromegaly,0018021
+puncture sites,UI-less
+Abdomen nontender,UI-less
+Abdomen Soft,UI-less
+liver not palpable,UI-less
+scar,2004491
+edema,0013604
+AV fistula,0003855
+bruit,UI-less
+thrill,UI-less
+cardiopulmonary process,UI-less
+angina,0002962
+ischemic,0022116
+EKG changes,UI-less
+perfusion defects,UI-less
+left atrial dilation,0344720
+LVH,0149721
+dilatation,0012359
+hepatitis B cirrhosis,UI-less
+end-stage renal disease,0022661
+toxicity,0013221
+IgA nephropathy,0017661
+hypertension,0020538
+creatinine down,UI-less
+shortness of breath,0013404
+pulmonary edema,0034063
+symptoms,1457887
+valvular abnormalities,UI-less
+thick secretions,UI-less
+creatinine decreased,UI-less
+agitation,0085631
+hypernatremia,0020488
+increase in creatinine,UI-less
+failure rejection,0451706
+granulomatous inflammation,0553697
+failure rejection,0451706
+End-stage renal disease,0022661
+toxicity,0013221
+IgA nephropathy,0017661
+Postoperative pulmonary edema,0264501
+Hyponatremia,UI-less
+Hypertension,0020538
+Depression,0011581
+anxiety,0003469
+coronary artery disease,1956346
+myocardial infarction,0027051
+congestive heart failure,0018802
+back pain,0004604
+nausea,0027497
+vomiting,0042963
+coffee grounds,UI-less
+hematemesis,0018926
+dark tarry stools,0025222
+diarrhea,0011991
+dizzy,0012833
+unsteady,UI-less
+presyncopal,0700200
+low blood pressure,0232107
+coffee grounds,UI-less
+chest pain,0008031
+shortness of breath on exertion,0231807
+abdominal pain,0000737
+rectal pain,0034886
+Coronary artery disease,1956346
+inferior myocardial infarction,0340305
+three vessel disease,0340285
+Congestive heart failure,0018802
+Chronic atrial fibrillation,0694539
+Nonsustained ventricular tachycardia,2919575
+Hypertension,0020538
+Hypothyroidism,0020676
+Chronic obstructive pulmonary disease,0024117
+Type 2 diabetes,0011860
+Hearing loss,UI-less
+cerebrovascular accident,0038454
+Chronic renal insufficiency,0022661
+Aortic aneurysms thoracic,0162872
+Aortic aneurysms,0003486
+acute distress,UI-less
+JVD,UI-less
+lymphadenopathy,UI-less
+irregularly irregular,UI-less
+systolic murmur,UI-less
+adomen nondistended,UI-less
+adomen nontender,UI-less
+adomen soft,UI-less
+adomen obese,UI-less
+mass,UI-less
+bruits,UI-less
+edema,0013604
+black tarry stool,0025222
+ST segment elevations,UI-less
+biphasic T waves,UI-less
+Poor R wave progression,UI-less
+ST depressions,UI-less
+INR reversed,UI-less
+bleeding,0019080
+upper gastrointestinal bleed,0041909
+non-steroidal anti-inflammatory drugs,0413722
+blood loss,0019080
+bleeding,0019080
+atrial fibrillation,0004238
+myocardial infarction,0027051
+strain of aggressive fluid,0080194
+congestive heart failure,0018802
+plaque rupture,UI-less
+bleeding,0019080
+plaque rupture,UI-less
+dyspnea on exertion,0231807
+symptoms,1457887
+hypokinesis,0086439
+occluded,0028778
+occluded,0028778
+atrial fibrillation,0004238
+afebrile,UI-less
+schizophrenia,0036341
+osteoporosis,0029456
+deep vein thrombosis,0149871
+seizure disorder,0014544
+dizziness,0012833
+nausea,0027497
+vomiting,0042963
+fell,0000921
+trauma,0043251
+loss of consciousness,UI-less
+seizure,0036572
+hypovolemia,UI-less
+hyponatremia,UI-less
+seizure,0036572
+chronic schizophrenia,0221765
+DVTs,0149871
+pulmonary embolus,0034065
+seizure disorder,0014544
+osteoporosis,0029456
+hip fracture,0019557
+dizziness,0012833
+chronic abdominal pain,0232491
+anxiety,0003469
+acute distress,UI-less
+lymphadenopathy,UI-less
+Abdomen nondistended,UI-less
+Abdomen nontender,UI-less
+Abdomen soft,UI-less
+Extremities warm,UI-less
+obstruction,0028778
+psychogenic polydipsia,0395005
+Syndrome of inappropriate diuretic hormone,0021141
+hyponatremia,UI-less
+seizure,0036572
+anemic,0002871
+hematocrit decreased,UI-less
+pulmonary embolism,0034065
+deep vein thrombosis,0149871
+white blood count decreased,UI-less
+sodium increased,UI-less
+Stent re-occlusion,UI-less
+bleeding,0019080
+coronary disease,0010068
+lesion,UI-less
+in-stent stenosis,UI-less
+in-stent stenosis,UI-less
+Non-small cell lung cancer,0007131
+Thyroid cancer,0007115
+hypothyroid,0020676
+Hypertension,0020538
+Elevated cholesterol,0020443
+soft tissue mass,0457193
+varicose veins,0042345
+no acute distress,UI-less
+JVD,UI-less
+murmur,UI-less
+rub,UI-less
+Ext warm,UI-less
+edema,0013604
+Neuro deficits,UI-less
+hypotension,UI-less
+tamponade,0007177
+clot,0302148
+clot,0302148
+oozing,1446325
+bleeding,0019080
+sinus tachycardia,0039239
+skin itchiness,0033774
+decreased HR,0428977
+sinus,UI-less
+pain,0030193
+thyroid condition,0040128
+pain,0030193
+Coronary artery disease,1956346
+bleeding,0019080
+hypothyroidism,0020676
+lung CA,0242379
+hypertension,0020538
+elev. cholesterol,0020443
+thyroid cancer,0007115
+chest pain,0008031
+drainage wound,0332799
+palpitation,UI-less
+lightheadedness,0220870
+concering sign,UI-less
+knee pain,0231749
+fever,UI-less
+septic,0243026
+CAD,1956346
+CHF,0018802
+CKD,0403447
+knee pain,0231749
+MSSA sepsis,UI-less
+vegetations,1285498
+fevers,UI-less
+fibrinous material,UI-less
+fevers,UI-less
+pleural effusion,0032227
+CHF,0018802
+infection,0021311
+fevers,UI-less
+allergy,0020517
+knee pain,0231749
+temperature,UI-less
+shaking chills,0085593
+arthritis,0003864
+afebrile,UI-less
+Knee swollen,UI-less
+erythematous,0041834
+warm,0235218
+symptoms,1457887
+Coronary artery disease,1956346
+LV  dysfunction,UI-less
+angina,0002962
+ischemic,0022116
+CHF,0018802
+RA dilated,0344709
+hypoK,0086439
+AR,0003504
+MR,0026266
+TR,0040961
+mass,UI-less
+vegetation,1285498
+HTN,0020538
+Hypercholesterolemia,0020443
+DM2,0011860
+nephropathy,0011881
+retinopathy,0011884
+AF,0004238
+RVR,UI-less
+Anemia,0002871
+low iron,UI-less
+Chronic renal insufficiency,0022661
+GERD,0017168
+hernia,0019270
+hemolytic reaction transfusions,0221123
+Afib,0004238
+NAD,UI-less
+anicteric,UI-less
+tender,0234233
+JVP,UI-less
+Irregular,UI-less
+s3,UI-less
+s4,UI-less
+diastolic murmur,0232262
+SEM,UI-less
+Decreased BS,UI-less
+ABD NR,UI-less
+ABD ND,UI-less
+ABD NT,UI-less
+ABD Soft,UI-less
+bruising,0009938
+hyperpigementation,0162834
+tenderness,0234233
+mass,UI-less
+pulsation,UI-less
+swelling,UI-less
+erythema,0041834
+warmth,0235218
+pain,0030193
+effusion,0013687
+pitting edema,0333243
+edema,0013604
+cardiomegaly,UI-less
+pulmonary edema,0034063
+pleural effusion,0032227
+effusion,0013687
+congestive failure,0018802
+Osteophytes,1956089
+Osteophytes,1956089
+erosions,0333307
+osteomyelitis,0029443
+left atrium dilated,0344720
+right atrium dilated,0344709
+hypokinesis,0086439
+left ventricular systolic function depressed,UI-less
+right ventricular dilated,0344893
+Right ventricular systolic   function depressed,UI-less
+thickened,UI-less
+aortic regurgitation,0003504
+CAD,1956346
+CHF,0018802
+MSSA sepsis,UI-less
+septic arthritis,0003874
+anemia,0002871
+thrombocytopenia,0040034
+volume overloaded,0546817
+sepsis,0243026
+CHF,0018802
+DNR,UI-less
+DNI,UI-less
+respiratory status,UI-less
+CMO,UI-less
+Distress,0476273
+fluid overload,0546817
+CHF,0018802
+MR,0026266
+renal failure,0035078
+conolidation,0521530
+atelctasis,0004144
+RUL septic emboli,1955781
+resp symptoms,0476272
+respiratory dispress,0476273
+DNR,UI-less
+DNI,UI-less
+CMO,UI-less
+bacteremia,0004610
+knee pain,0231749
+redness,UI-less
+warmth,0235218
+septic arthritis,0003874
+leukocytosis,0023518
+methicillin sensitive staphylococcus aureus,2367273
+bacteremia,0004610
+endocarditis,0014118
+low grade fevers,UI-less
+consolidation,0521530
+thrombosis,0040053
+swelling,UI-less
+thrombosis,0040053
+anticoagulation,UI-less
+CHF,0018802
+renal insufficiency,0035078
+pleural effusions,0032227
+volume overload,0546817
+CHF,0018802
+volume overloaded,0546817
+pulmonary status,UI-less
+AFIB,0004238
+euthyroid,UI-less
+bactermia,0004610
+CAD,1956346
+HTN,0020538
+chest pain,0008031
+difficulty breathing,0013404
+CKD,0403447
+ANEMIA,0002871
+CKD,0403447
+anemia of chronic disease,0002873
+THROMBOCYTOPENIA,0040034
+COAGULOPATHY,0005779
+elevated INR,UI-less
+nutritional deficiencies,0154241
+factor deficiency,0001733
+bleeding,0019080
+DM 2,0011860
+ischemic,0022116
+CHF,0018802
+CKD,0403447
+diabetes,0011860
+perioperative complications,0009566
+hypoxia,0242184
+elevated blood sugars,0020456
+kidney dysfunction,UI-less
+unresponsive,UI-less
+HTN,0020538
+high chol,0020443
+sz d/o,0014544
+vomited,0042963
+unresponsive,UI-less
+upset,1535460
+vomited,0042963
+unresponsive,UI-less
+HTN,0020538
+High chol,0020443
+Seizure d/o,0014544
+unresponsive,UI-less
+Abdomen soft,UI-less
+Extremities warm,UI-less
+Unresponsive to sternal rub,UI-less
+Unresponsive to voice,UI-less
+blurring disc margins,UI-less
+unreactive,UI-less
+corneal on L,UI-less
+corneal on R,UI-less
+OCR,UI-less
+nasal tickle,UI-less
+gag,UI-less
+Toes mute,UI-less
+depressed DTRs,UI-less
+upward retraction,UI-less
+opacity,1265876
+traction bronchiectasis,0264361
+pleural thickening,0264545
+opacity,1265876
+atelectasis,0004144
+aspiration,UI-less
+pneumonia,0032285
+pneumothorax,0032326
+tortuous aorta,UI-less
+opacities,1265876
+aspiration,UI-less
+atelectasis,0004144
+pneumonia,0032285
+intraparenchymal hematoma,2316496
+mass effect,UI-less
+complete effacement,UI-less
+dilatation,0012359
+trapped ventricle,UI-less
+leftward subfalcine shift,UI-less
+Subependymal blood,UI-less
+interventricular blood,UI-less
+clot,0302148
+Subarachnoid hemorrhage,0038525
+vasogenic cerebral edema,0472387
+Effacement,UI-less
+transtentorial herniation,2937226
+uncal herniation,0393985
+effaced,UI-less
+Air- fluid levels,UI-less
+intraparenchymal hematoma,2316496
+mass effect,UI-less
+leftward subfalcine shift,UI-less
+Effacement,UI-less
+transtentorial hernation,2937226
+uncal herniation,0393985
+Subarachnoid hemorrhage,0038525
+HTN,0020538
+high chol,0020443
+sz d/o,0014544
+vomited,0042963
+unresponsive,UI-less
+hemisphere hemorrhage,0007784
+shift of midline structures,UI-less
+mass effect,UI-less
+fixed pupils,UI-less
+R corneal,UI-less
+gag,UI-less
+herniation,0019270
+hemorrhage,0019080
+dropped BP,0232107
+dismal prognosis,UI-less
+dropping BP,0232107
+cardiac arrhythmia,0003811
+respiratory failure,1145670
+ICH,2937358
+Pericardial effusion,0031039
+left atrium dilated,0344720
+elongated,UI-less
+right atrium dilated,0344709
+left ventricular hypertrophy,0149721
+left ventricular wall motion abnormalities,UI-less
+hypokinetic,0086439
+hypokinetic,0086439
+hypokinetic,0086439
+hypokinetic,0086439
+right ventricular hypertrophied,0162770
+thickened,UI-less
+mitral leaflets thickened,UI-less
+mitral annular calcification,0428811
+tricuspid regurgitation,0040961
+systolic hypertension,0221155
+pericardial effusion,0031039
+effusion,0013687
+circumferential,UI-less
+left atrium dilated,0344720
+elongated,UI-less
+right atrium dilated,0344709
+left ventricular hypertrophy,0149721
+wall motion abnormalities,UI-less
+hypokinesis,0086439
+right ventricular hypertrophied,0162770
+thickened,UI-less
+MR,0026266
+mitral leaflets thickened,UI-less
+systolic hypertension,0221155
+pericardial effusion,0031039
+effusion,0013687
+circumferential,UI-less
+density,UI-less
+pericardial effusion,0031039
+syncope,0039070
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral annular calcification,0428811
+tricuspid regurgitation,0040961
+pericardial effusion,0031039
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+pericardial effusion,0031039
+Endocarditis,0014118
+rheumatic fever,0035436
+wall motion abnormality,UI-less
+left ventricular systolic function,UI-less
+left ventricular outflow tract obstruction,0344917
+thickened,UI-less
+aortic regurgitation,0003504
+thickening,UI-less
+mitral stenosis,0026269
+Mitral regurgitation,0026266
+Global systolic function,UI-less
+regional systolic function,UI-less
+thickened,UI-less
+aortic regurgitation,0003504
+thickening,UI-less
+Mitral regurgitation,0026266
+pericardial effusion,0031039
+endocarditis,0014118
+Atrial flutter,0004239
+Atrial fibrillation,0004238
+Congestive heart failure,0018802
+Coronary artery disease,1956346
+Mitral regurgitation,0026266
+Left ventricular function,UI-less
+LA enlargement,0238705
+dilated RA,0344709
+dilated LV,0344911
+hypokinesis,0086439
+resting LVOT gradient,UI-less
+mass,UI-less
+thrombus,0087086
+VSD,0018818
+thickened,UI-less
+AS,0003507
+AR,0003504
+thickened mitral leaflets,UI-less
+MVP,0026267
+mitral annular calcification,0428811
+thickening,UI-less
+Calcified tips,UI-less
+MS,0026269
+MR,0026266
+PR,0034088
+PDA,0013274
+pericardial effusion,0031039
+left atrium dilated,0344720
+right atrium dilated,0344709
+left ventricular dilated,0344911
+hypokinesis,0086439
+masses,UI-less
+thrombi,0087086
+ventricular septal defect,0018818
+thickened,UI-less
+aortic stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral valve prolapse,0026267
+mitral regurgitation,0026266
+pericardial effusion,0031039
+endocarditis,0014118
+aortic regurgitation,0003504
+masses,UI-less
+vegetations,1285498
+mass,UI-less
+vegetation,1285498
+mitral regurgitation,0026266
+pulmonic regurgitation,0034088
+pericardial effusion,0031039
+aortic regurgitation,0003504
+masses,UI-less
+vegetations,1285498
+mass,UI-less
+vegetation,1285498
+pericardial effusion,0031039
+endocarditis,0014118
+Cerebrovascular event,UI-less
+TIA,0007787
+embolism,0013922
+ASD,0018817
+PFO,0016522
+atherosclerotic plaque,0333483
+dilated aortic root,0238669
+calcifications,UI-less
+calcifications,UI-less
+thickened,UI-less
+AS,0003507
+AR,0003504
+thickened mitral leaflets,UI-less
+MVP,0026267
+mitral annular calcification,0428811
+thickening,UI-less
+Calcified tips,UI-less
+MS,0026269
+MR,0026266
+TR,0040961
+PR,0034088
+PDA,0013274
+pericardial effusion,0031039
+atrial premature beats,0033036
+atrial septal defect,0018817
+patent foramen ovale,0016522
+atherosclerotic plaque,0333483
+aortic root dilated,0238669
+thickened,UI-less
+aortic stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral valve prolapse,0026267
+mitral regurgitation,0026266
+pericardial effusion,0031039
+Aortic valve disease,1260873
+Left ventricular function,UI-less
+Murmur,UI-less
+left atrium dilated,0344720
+elongated,UI-less
+right atrium dilated,0344709
+thickened,UI-less
+aortic valve stenosis,0003507
+mitral leaflets thickened,UI-less
+mitral annular calcification,0428811
+mitral regurgitation,0026266
+pulmonic regurgitation,0034088
+pericardial effusion,0031039
+pericardial effusion,0031039
+left atrium dilated,0344720
+elongated,UI-less
+thickened,UI-less
+aortic valve stenosis,0003507
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+pericardial effusion,0031039
+pericardial effusion,0031039
+Left ventricular function,UI-less
+hypokinesis,0086439
+depressed LVEF,UI-less
+LV wall motion abnormalities,UI-less
+hypo,0086439
+hypo,0086439
+hypo,0086439
+hypo,0086439
+hypo,0086439
+hypo,0086439
+hypo,0086439
+hypo,0086439
+RV function depressed,UI-less
+thickened,UI-less
+thickened mitral leaflets,UI-less
+mitral annular calcification,0428811
+MR,0026266
+pericardial effusion,0031039
+hypokinesis,0086439
+hypokinesis,0086439
+left ventricular systolic function depressed,UI-less
+Right ventricular systolic function,UI-less
+thickened,UI-less
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+pericardial effusion,0031039
+Left ventricular function,UI-less
+LVH,0149721
+thickened,UI-less
+AS,0003507
+AR,0003504
+thickened mitral leaflets,UI-less
+MVP,0026267
+mitral annular calcification,0428811
+thickening,UI-less
+Calcified tips,UI-less
+MS,0026269
+MR,0026266
+TR,0040961
+PR,0034088
+PDA,0013274
+pericardial effusion,0031039
+left ventricular hypertrophy,0149721
+thickened,UI-less
+aortic stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral valve prolapse,0026267
+mitral regurgitation,0026266
+pericardial effusion,0031039
+Left ventricular function,UI-less
+Elongated,UI-less
+dilated RA,0344709
+LVH,0149721
+hypokinesis,0086439
+resting LVOT gradient,UI-less
+Dilated RV,0344893
+normal RV systolic function,UI-less
+RV systolic function,UI-less
+TR,0040961
+Abnormal septal position,UI-less
+Abnormal septal motion,UI-less
+RV pressure overload,UI-less
+RV volume overload,UI-less
+dilated,0012359
+thickened,UI-less
+AS,0003507
+AR,0003504
+thickened mitral leaflets,UI-less
+MR,0026266
+impaired relaxation,UI-less
+thickened tricuspid leaflets,2959459
+TR,0040961
+PR,0034088
+pericardial effusion,0031039
+elongated,UI-less
+right atrium dilated,0344709
+left ventricular hypertrophy,0149721
+hypokinesis,0086439
+right ventricular dilated,0344893
+Right ventricular systolic function normal,UI-less
+right ventricular systolic function,UI-less
+tricuspid regurgitation,0040961
+abnormal septal position,UI-less
+abnormal septal motion,UI-less
+right ventricular pressure overload,UI-less
+right ventricular volume overload,UI-less
+dilated,0012359
+thickened,UI-less
+aortic valve stenosis,0003507
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+impaired relaxation,UI-less
+tricuspid leaflets thickened,2959459
+tricuspid regurgitation,0040961
+pulmonic regurgitation,0034088
+pericardial effusion,0031039
+Shortness of breath,0013404
+LA enlargement,0238705
+LV wall motion abnormality,UI-less
+dilated aortic root,0238669
+thickened,UI-less
+mitral annular calcification,0428811
+MR,0026266
+TR,0040961
+PA systolic pressure,UI-less
+pericardial effusion,0031039
+left atrium dilated,0344720
+wall motion abnormality,UI-less
+aortic root dilated,0238669
+thickened,UI-less
+aortic regurgitation,0003504
+thickness,UI-less
+mitral regurgitation,0026266
+pulmonary artery systolic pressure,UI-less
+pericardial effusion,0031039
+Hypertrophic cardiomyopathy,0007194
+Left ventricular function,UI-less
+LA enlargement,0344720
+dilated RA,0344709
+Dilated,0012359
+LVH,0149721
+depressed LVEF,UI-less
+LV systolic function depressed,UI-less
+valvular regurgitation,0042300
+resting LVOT gradient,UI-less
+RV hypertrophy,0162770
+Dilated RV,0344893
+hypokinesis,0086439
+RV systolic function depressed,UI-less
+TR,0040961
+thickened,UI-less
+AR,0003504
+thickened mitral leaflets,UI-less
+MR,0026266
+restrictive filling abnormality,UI-less
+elevated LA pressure,UI-less
+TR,0040961
+systolic hypertension,0221155
+pericardial effusion,0031039
+left atrium dilated,0344720
+left ventricular hypertrophy,0149721
+left ventricular systolic function depressed,UI-less
+left ventricular systolic function depressed,UI-less
+valvular regurgitation,0042300
+right ventricular hypertrophied,0162770
+right ventricular dilated,0344893
+hypokinesis,0086439
+right ventricular systolic function depressed,UI-less
+tricuspid regurgitation,0040961
+thickened,UI-less
+aortic regurgitation,0003504
+mitral leaflets thickened,UI-less
+mitral regurgitation,0026266
+restrictive filling abnormality,UI-less
+elevated left atrial pressure,UI-less
+tricuspid regurgitation,0040961
+systolic hypertension,0221155
+pericardial effusion,0031039
+left ventricular systolic function depressed,UI-less
+AIRWAY OBSTRUCTION,0001883
+NSCLC,0007131
+SVC syndrome,0038833
+SVC syndrome,0038833
+ATRIAL DEFECT,0018817
+ATRIAL SEPTAL DEFECT,0018817
+PFO,0016522
+ASD,0018817
+ASD,0018817
+improved aeration,UI-less
+abnormal density,UI-less
+CHF,0018802
+pneumothorax,0032326
+pneumothorax,0032326
+Improved aeration,UI-less
+worsened aeration,UI-less
+FAILURE TO THRIVE,0015544
+Hep C Cirrhosis,UI-less
+NG Tube curled,UI-less
+complication,0009566
+WOUND INFECTION,0043241
+pleural effusion,0032227
+lung collapsed,0004144
+plugged with secretions,UI-less
+pleural effusion,0032227
+lung collapse,0004144
+pneumothorax,0032326
+pleural effusion,0032227
+pleural effusion,0032227
+opacity,1265876
+atelectasis,0004144
+pleural effusions,0032227
+pleural effusions,0032227
+CHEST PAIN,0008031
+resp failure,1145670
+respiratory failure,1145670
+pneumothorax,0032326
+bilateral pleural effusions,0747635
+pulmonary edema,0034063
+cephalization,UI-less
+perivascular haziness,UI-less
+opacity,1265876
+clustered bronchial markings,UI-less
+atelectasis,0004144
+CHF,0018802
+atelectasis,0004144
+bony erosions,0587240
+asp,0004030
+ASPERGILLOSIS,0004030
+Aspergillosis,0004030
+sinus involvement,UI-less
+bony erosions,0587240
+aspergillosis,0004030
+Aspergillosis,0004030
+thickening,UI-less
+defect,0302142
+thickening,UI-less
+edema,0013604
+opacification,1265876
+defects,0302142
+thickening,UI-less
+bone destruction,0587240
+edema,0013604
+opacification,1265876
+MYOCARDIAL INFARCTION,0027051
+triple vessel CAD,0340285
+infarct,0021308
+junctional rhythm,0232208
+position of trach,UI-less
+pneumothorax,0032326
+position of tracheostomy,UI-less
+pneumothorax,0032326
+pneumothorax,0032326
+pleural thickening,0264545
+effusions,1265807
+infiltrate,0332448
+liver failure,0085605
+ascites,UI-less
+decreased breath sounds,UI-less
+increased 02 requirement,UI-less
+effusions,1265807
+infiltrate,0332448
+liver failure,0085605
+ascites,UI-less
+decreased breath sounds,UI-less
+effusions,1265807
+infiltrate,0332448
+opacities,1265876
+opacity,1265876
+pneumonia,0032285
+pulmonary edema,0034063
+pleural effusions,0032227
+opacities,1265876
+pneumonia,0032285
+pulmonary edema,0034063
+bleed,0019080
+CEREBELLER HEMORRHAGE,0149854
+bleed,0019080
+bleed,0019080
+hemorrhage,0019080
+hemorrhage,0019080
+pneumocephalus,0032268
+Hyperdense material,UI-less
+subarachnoid hemorrhage,0038525
+hypodensities,UI-less
+infarction,0021308
+shift of midline structures,UI-less
+effaced,UI-less
+polypoid mucosal thickening,UI-less
+hemorrhage,0019080
+subarachnoid hemorrhage,0038525
+hypoxia,0242184
+fevers,UI-less
+pneumonia,0032285
+SKULL FRACTURE,0037304
+HEAD INJURY,0018674
+SAH,0038525
+hypoxia,0242184
+fevers,UI-less
+pneumonia,0032285
+hypoxia,0242184
+fevers,UI-less
+pulmonary edema,0034063
+density,UI-less
+consolidation,0521530
+collapse,0004144
+pleural effusions,0032227
+interstitial edema,0013604
+collapse,0004144
+consolidation,0521530
+clinical change,UI-less
+SEPSIS,0243026
+ESRD,0022661
+resp. failure,1145670
+clinical change,UI-less
+Respiratory failure,1145670
+pleural effusion,0032227
+interstitial edema,0013604
+Leftward mediastinal shift,UI-less
+pleural effusion,0032227
+left lower lobe collapse,0004144
+pneumothorax,0032326
+pneumothorax,0032326
+decreased BS,UI-less
+effusion,0013687
+infiltrate,0332448
+MITRAL STENOSIS,0026269
+decreased BS,UI-less
+effusion,0013687
+infiltrate,0332448
+decreased breath sounds,UI-less
+effusion,0013687
+infiltrate,0332448
+opacity,1265876
+hematoma,0018944
+edema,0013604
+left ventricular enlargement,0149721
+cardiac failure,0018801
+pulmonary infiltrates,0034068
+pleural effusions,0032227
+linear atelectasis,0264495
+opacity,1265876
+hematoma,0018944
