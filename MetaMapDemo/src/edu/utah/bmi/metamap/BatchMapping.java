@@ -60,9 +60,11 @@ public class BatchMapping {
 					bw.write(line + "," + getMetaMapCUI(row[0])+"\n");
 				}
 			}
+			fw.close();
+			fr.close();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		}	
 		long endTime = System.nanoTime();
 		System.out.println("Initiating Time: "+ (startTime2 - startTime1) / 1000000 + "ms");
 		System.out.println("Processing Time: "+ (endTime - startTime2) / 1000000 + "ms");
