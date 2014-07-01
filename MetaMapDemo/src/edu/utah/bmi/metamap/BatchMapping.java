@@ -28,7 +28,9 @@ public class BatchMapping {
 	private static MetaMapApi api;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+//		startServer("resources/startdaemonsMM12.sh");
+		
 		BufferedReader fr;
 		BufferedWriter bw;
 		String datafile = "data/semeval_devel_uniconcepts.csv";
@@ -91,4 +93,27 @@ public class BatchMapping {
 		return "UI-less,0,";
 	}
 
+	/**
+	 * This is adopted from Kristina's code
+	 * @param script
+	 * @return
+	 */
+	private static boolean startServer(String script){
+		try {
+			File fil = new File(script);
+			if(!fil.exists() || !fil.canExecute()) {
+				System.err.println("MetaMapUIMA.Initialize COULD NOT RUN DAEMON START SCRIPT " + script + ": metamap daemons may not be running"); 
+			} else {
+				Process daemonStartProc = Runtime.getRuntime().exec(script);		//hopework
+				daemonStartProc.waitFor();			//wait for the start script to finish
+				System.err.println("MetaMapUIMA.Initialize called daemon starting script " + script);	//debug
+			}
+		} catch (Exception e2) {
+			System.err.println("MetaMapUIMA.Failed to run daemon starter script! Exception raised");
+			e2.printStackTrace();
+			return false;
+		}
+		System.out.println("MetaMap Server started");
+		return true;
+	}
 }
